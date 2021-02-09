@@ -11,7 +11,7 @@ var toggleTheme = function (isOn) {
       violet: '#50a'
     };
 
-  if(!isOn) { 
+  if(isOn) { 
     body.style.setProperty('color', `${colors['ebony']}`);
     body.style.setProperty('background-color', `${colors['ivory']}`);
 

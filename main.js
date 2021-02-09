@@ -23,7 +23,7 @@ var toggleTheme = function (isOn) {
   } else { 
     body.style.setProperty('color', `${colors['ivory']}`);
     body.style.setProperty('background-color', `${colors['ebony']}`);
-    mark.style.setProperty('background-color', `${colors['ivory']}`);
+    mark.style.setProperty('background-color', `#000`);
 
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['lavender']}`);

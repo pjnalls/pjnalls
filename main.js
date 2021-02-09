@@ -1,3 +1,5 @@
+'use strict';
+
 var toggleTheme = function (isOn) {
   var 
     body = document.getElementsByTagName('body').item(0),
@@ -31,3 +33,11 @@ var togglePower = function () {
   isON = !isOn;
   toggleTheme(isOn) 
 };
+
+let vh = window.innerHeight * 0.01;
+document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+window.addEventListener('resize', () => {
+  let vh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--vh', `${vh}px`);
+});

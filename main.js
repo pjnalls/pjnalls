@@ -30,7 +30,7 @@ var togglePower = function () {
   var isOn = document.getElementById('power').textContent === '🌙';
 
   document.getElementById('power').textContent = isOn ? '💡' : '🌙';
-  isON = !isOn;
+  isOn = !isOn;
   toggleTheme(isOn) 
 };
 

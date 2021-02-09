@@ -4,6 +4,7 @@ var toggleTheme = function (isOn) {
   var 
     body = document.getElementsByTagName('body').item(0),
     a = document.getElementsByTagName('a'),
+    mark = document.getElementsByTagName('mark').item(0),
     colors = {
       ivory: '#f5f5f5',
       ebony: '#1f1f1f',
@@ -14,12 +15,15 @@ var toggleTheme = function (isOn) {
   if(isOn) { 
     body.style.setProperty('color', `${colors['ebony']}`);
     body.style.setProperty('background-color', `${colors['ivory']}`);
+    mark.style.setProperty('background-color', `${colors['ebony']}`);
+    
 
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['violet']}`);
   } else { 
     body.style.setProperty('color', `${colors['ivory']}`);
     body.style.setProperty('background-color', `${colors['ebony']}`);
+    mark.style.setProperty('background-color', `${colors['ivory']}`);
 
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['lavender']}`);

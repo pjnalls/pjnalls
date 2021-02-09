@@ -15,6 +15,9 @@ header, footer {
   flex-shrink: 0;
   height: 50px;
 }
+mark { 
+  background-color: #1f1f1f;
+}
 
 main { flex: 1 0 auto; }
 

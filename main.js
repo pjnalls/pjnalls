@@ -5,8 +5,10 @@ var toggleTheme = function (isOn) {
     body = document.getElementsByTagName('body').item(0),
     a = document.getElementsByTagName('a'),
     mark = document.getElementsByTagName('mark').item(0),
+    footer = document.getElementsByTagName('footer').item(0),
+    header = document.getElementsByTagName('header').item(0),
     colors = {
-      ivory: '#f5f5f5',
+      beige: '#ffffe5',
       ebony: '#1f1f1f',
       lavender: '#aaf',
       violet: '#50a'
@@ -14,15 +16,19 @@ var toggleTheme = function (isOn) {
 
   if(isOn) { 
     body.style.setProperty('color', `${colors['ebony']}`);
-    body.style.setProperty('background-color', `${colors['ivory']}`);
+    body.style.setProperty('background-color', `${colors['beige']}`);
+    footer.style.setProperty('background-color', `${colors['beige']}`);
+    header.style.setProperty('background-color', `${colors['beige']}`);
     mark.style.setProperty('background-color', `${colors['ebony']}`);
     
 
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['violet']}`);
   } else { 
-    body.style.setProperty('color', `${colors['ivory']}`);
+    body.style.setProperty('color', `${colors['beige']}`);
     body.style.setProperty('background-color', `${colors['ebony']}`);
+    footer.style.setProperty('background-color', `${colors['ebony']}`);
+    header.style.setProperty('background-color', `${colors['ebony']}`);
     mark.style.setProperty('background-color', `#000`);
 
     for (let i = 0; i < a.length; i++)

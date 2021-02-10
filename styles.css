@@ -17,7 +17,7 @@ header, footer {
 header { 
   width: 100%;
   top: -15px;
-  left: 30px;
+  padding-left: 25px;
   height: 100px;
 }
 
@@ -32,11 +32,12 @@ footer {
 .text-size {
   font-weight: bold;
   color: #000;
-  padding-left: 15px;
+  padding-left: 4px;
   margin: 0;
+  padding-bottom: 0;
 }
 .selected-size {
-  -webkit-text-stroke: 1.5px black;
+  -webkit-text-stroke: 1.5px #000;
   color: #fff;
 }
 
@@ -58,6 +59,7 @@ main { flex: 1 0 auto; }
 a:link, a:active { color: #05a; }
 a:visited { color: #409; }
 a:hover { color: #a0a; cursor: pointer; }
+a { text-decoration: none; }
 
 /*
  *

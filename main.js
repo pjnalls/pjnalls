@@ -7,12 +7,14 @@ var toggleTheme = function (isOn) {
     button = document.getElementById('power'),
     footer = document.getElementsByTagName('footer').item(0),
     header = document.getElementsByTagName('header').item(0),
+    textSize = document.getElementsByClassName('text-size'),
+    selectedSize = document.getElementsByClassName('selected-size'),
     colors = {
       beige: '#ffffe5',
       gold: '#ffd800',
       ebony: '#1f1f1f',
       lavender: '#aaf',
-      violet: '#30f'
+      violet: '#409'
     };
 
   if(isOn) { 
@@ -21,6 +23,12 @@ var toggleTheme = function (isOn) {
     footer.style.setProperty('background-color', `${colors['gold']}`);
     header.style.setProperty('background-color', `${colors['gold']}`);
     button.style.setProperty('background-color', `${colors['ebony']}`);
+
+    for (let i = 0; i < textSize.length; i++)
+      textSize.item(i).style.setProperty('color', `#000`);
+      
+    for (let i = 0; i < selectedSize.length; i++)
+      selectedSize.item(i).style.setProperty('color', `#fff`);
     
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['violet']}`);
@@ -30,6 +38,12 @@ var toggleTheme = function (isOn) {
     footer.style.setProperty('background-color', `${colors['ebony']}`);
     header.style.setProperty('background-color', `${colors['ebony']}`);
     button.style.setProperty('background-color', `#000`);
+
+    for (let i = 0; i < textSize.length; i++)
+      textSize.item(i).style.setProperty('color', `#fff`);
+      
+    for (let i = 0; i < selectedSize.length; i++)
+      selectedSize.item(i).style.setProperty('color', `${colors['gold']}`);
 
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['lavender']}`);

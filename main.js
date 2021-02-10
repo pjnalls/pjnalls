@@ -21,7 +21,6 @@ var toggleTheme = function (isOn) {
     header.style.setProperty('background-color', `${colors['beige']}`);
     mark.style.setProperty('background-color', `${colors['ebony']}`);
     
-
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['violet']}`);
   } else { 

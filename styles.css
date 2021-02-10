@@ -18,7 +18,7 @@ header {
   width: 100%;
   top: -15px;
   left: 30px;
-  height: 120px;
+  height: 100px;
 }
 
 footer {
@@ -68,7 +68,7 @@ h3, .lang-headers { font-size: 13px; }
   h1 { font-size: 45px; 
     padding-top: 15px; }
   h2 { font-size: 24px; }
-  h3, .lang-headers { font-size: 20px; }
+  h3, .lang-headers, p { font-size: 20px; }
   .check-it { font-size: 54px; }
   .power { font-size: 35px; }
   .lang { width: 480px; }
@@ -79,7 +79,7 @@ h3, .lang-headers { font-size: 13px; }
 @media (min-width: 1000px) {
   h1 { font-size: 60px;}
   h2 { font-size: 36px; }
-  h3, .lang-headers { font-size: 25px; }
+  h3, .lang-headers, p { font-size: 25px; }
   .check-it { font-size: 60px; } 
   .description { font-size: 30px; }
   .lang { width: 720px; }

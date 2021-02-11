@@ -18,7 +18,7 @@ header {
   width: 100%;
   top: -15px;
   padding-left: 25px;
-  height: 100px;
+  height: 90px;
 }
 
 footer {
@@ -131,6 +131,8 @@ h1 { padding-top: 15px; }
   .sm-h4 { font-size: 48px; }
   .sm-description { font-size: 18px; }
   .main-content{ width: 70%; }
+
+  header { height: 108px; }
 }
 
 /* Full-Size */
@@ -154,6 +156,8 @@ h1 { padding-top: 15px; }
   .sm-h4 { font-size: 54px; } 
   .sm-description { font-size: 24px; }
   .main-content{ width: 66%; }
+
+  header { height: 150px; }
 }
 
 /* * { border: solid 1px crimson; } */

@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffe5;
+  background-color: #ffd800;
   color: #1f1f1f;
 }
 .container {
@@ -12,35 +12,71 @@ header, footer {
   flex-shrink: 0;
   position: fixed;
   width: 95%;
-  background-color: #ffffe5;
+  background-color: #ffd800;
 }
 header { 
   width: 100%;
   top: -15px;
-  left: 30px;
+  padding-left: 25px;
   height: 100px;
 }
 
 footer {
-  width: 96%;
-  bottom: 0;
-  margin-left: 10px;
-  height: 60px;
+  width: 98%;
+  bottom: -30px;
+  margin-left: -3px;
+  margin-bottom: 3px;
+  margin-top: -30px;
+  height: 90px;
+}
+.size-option-on, .quality-option-on {
+  font-weight: bold;
+  color: #000;
+  padding-left: 4px;
+  margin: 0;
+  padding-bottom: 0;
+  cursor: pointer;
 }
 
-mark { 
-  background-color: #1f1f1f;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 3px;
-  border-radius: 5px;
+.size-option-off, .quality-option-off {
+  font-weight: bold;
+  color: #fff;
+  padding-left: 4px;
+  margin: 0;
+  padding-bottom: 0;
+  cursor: pointer;
 }
+
+
+.selected-on {
+  -webkit-text-stroke: 1.5px #000;
+  color: #fff !important;
+}
+
+.selected-off {
+  -webkit-text-stroke: 1.5px #000;
+  color: #ffd800 !important;
+}
+
+.power { 
+  background-color: #1f1f1f;
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+  height: 45px;
+  width: 90px;
+  border-left: solid 2px #5f5f5f;
+  border-bottom: solid 2px #3f3f3f;
+  border-radius: 7.5px;
+}
+
+.power:hover { cursor: pointer; }
 
 main { flex: 1 0 auto; }
 
 a:link, a:active { color: #05a; }
-a:visited { color: #50a; }
+a:visited { color: #307; }
 a:hover { color: #a0a; cursor: pointer; }
+a { text-decoration: none; }
 
 /*
  *
@@ -49,40 +85,75 @@ a:hover { color: #a0a; cursor: pointer; }
  */
 
 /* Default */
-h1 { font-size: 36px; 
-  padding-top: 15px; }
-h2 { font-size: 24px; }
-h3, .lang-headers { font-size: 13px; }
-.check-it { font-size: 54px; }
-.power { font-size: 35px; }
-.lang { width: 240px; }
+h1 { padding-top: 15px; }
+.lang { width: 100%; }
+.power { font-size: 24px; }
+
+.h1 { font-size: 36px; }
+.lg-h1 { font-size: 42px; }
+.sm-h1 { font-size: 30px; }
+
+.h2 { font-size: 24px; }
+.lg-h2 { font-size: 30px; }
+.sm-h2 { font-size: 18px; }
+
+.h3, .lang-headers { font-size: 13px; }
+.h4 { font-size: 54px; }
 .description { font-size: 24px; }
 
-/* Small-Size */
-@media (min-width: 600px) {
-  .lang { width: 360px; }
-  .lang-headers { font-size: 15px; }
-}
+.lg-h3, .lg-lang-headers { font-size: 20px; }
+.lg-h4 { font-size: 60px; }
+.lg-description { font-size: 30px; }
+
+.sm-h3, .sm-lang-headers { font-size: 10px; }
+.sm-h4 { font-size: 42px; }
+.sm-description { font-size: 18px; }
+.main-content{ width: 80%; }
+
 /* Mid-Size */
 @media (min-width: 720px) {
-  h1 { font-size: 45px; 
-    padding-top: 15px; }
-  h2 { font-size: 24px; }
-  h3, .lang-headers, p { font-size: 20px; }
-  .check-it { font-size: 54px; }
-  .power { font-size: 35px; }
-  .lang { width: 480px; }
+  footer { width: 99%; }
+  .h1 { font-size: 45px; }
+  .h2 { font-size: 24px; }
+  .h3, .lang-headers, .p { font-size: 20px; }
+  .h4 { font-size: 54px; }
   .description { font-size: 24px; }
+  
+  .lg-h1 { font-size: 52px; }
+  .lg-h2 { font-size: 30px; }
+  .lg-h3, .lg-lang-headers, .lg-p { font-size: 26px; }
+  .lg-h4 { font-size: 60px; }
+  .lg-description { font-size: 30px; }
+  
+  .sm-h1 { font-size: 38px; }
+  .sm-h2 { font-size: 18px; }
+  .sm-h3, .sm-lang-headers, .sm-p { font-size: 14px; }
+  .sm-h4 { font-size: 48px; }
+  .sm-description { font-size: 18px; }
+  .main-content{ width: 70%; }
 }
 
 /* Full-Size */
 @media (min-width: 1000px) {
-  h1 { font-size: 60px;}
-  h2 { font-size: 36px; }
-  h3, .lang-headers, p { font-size: 25px; }
-  .check-it { font-size: 60px; } 
+  footer { width: 99.5%; }
+  .h1 { font-size: 60px;}
+  .h2 { font-size: 36px; }
+  .h3, .lang-headers, .p { font-size: 25px; }
+  .h4 { font-size: 60px; } 
   .description { font-size: 30px; }
-  .lang { width: 720px; }
+
+  .lg-h1 { font-size: 70px;}
+  .lg-h2 { font-size: 42px; }
+  .lg-h3, .lg-lang-headers, .lg-p { font-size: 32px; }
+  .lg-h4 { font-size: 70px; } 
+  .lg-description { font-size: 36px; }
+
+  .sm-h1 { font-size: 54px;}
+  .sm- h2 { font-size: 30px; }
+  .sm-h3, .sm-lang-headers, .sm-p { font-size: 18px; }
+  .sm-h4 { font-size: 54px; } 
+  .sm-description { font-size: 24px; }
+  .main-content{ width: 66%; }
 }
 
 /* * { border: solid 1px crimson; } */

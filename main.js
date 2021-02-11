@@ -1,52 +1,119 @@
 'use strict';
 
-var toggleTheme = function (isOn) {
+var 
+  isOn = document.getElementById('power').textContent === '🌙',
+  fontSizeElements = [
+    document.getElementsByTagName('h1'),
+    document.getElementsByTagName('h2'),
+    document.getElementsByTagName('h3'),
+    document.getElementsByTagName('h4'),
+    document.getElementsByTagName('p')
+  ];
+
+for (let i = 0; i < fontSizeElements.length; i++) {
+  for (let j = 0; j < fontSizeElements[i].length; j++)
+    fontSizeElements[i].item(j).classList = fontSizeElements[i].item(j).tagName.toLowerCase();
+}
+
+var toggleTheme = function () {
   var 
     body = document.getElementsByTagName('body').item(0),
     a = document.getElementsByTagName('a'),
-    mark = document.getElementsByTagName('mark').item(0),
+    button = document.getElementById('power'),
     footer = document.getElementsByTagName('footer').item(0),
     header = document.getElementsByTagName('header').item(0),
+    sizeOptions = document.getElementsByClassName('size-option'), 
+    qualityOptions = document.getElementsByClassName('quality-option'),
     colors = {
       beige: '#ffffe5',
+      gold: '#ffd800',
       ebony: '#1f1f1f',
       lavender: '#aaf',
-      violet: '#50a'
+      violet: '#307'
     };
 
-  if(isOn) { 
-    body.style.setProperty('color', `${colors['ebony']}`);
-    body.style.setProperty('background-color', `${colors['beige']}`);
-    footer.style.setProperty('background-color', `${colors['beige']}`);
-    header.style.setProperty('background-color', `${colors['beige']}`);
-    mark.style.setProperty('background-color', `${colors['ebony']}`);
-    
-    for (let i = 0; i < a.length; i++)
-      a.item(i).style.setProperty('color', `${colors['violet']}`);
-  } else { 
+  if (!isOn) { 
     body.style.setProperty('color', `${colors['beige']}`);
     body.style.setProperty('background-color', `${colors['ebony']}`);
     footer.style.setProperty('background-color', `${colors['ebony']}`);
     header.style.setProperty('background-color', `${colors['ebony']}`);
-    mark.style.setProperty('background-color', `#000`);
+    button.style.setProperty('background-color', `#000`);
+
+    
+    for (let i = 0; i < sizeOptions.length; i++)
+      sizeOptions.item(i).classList.value === 'size-option size-option-on selected-on' ?
+        sizeOptions.item(i).classList.value = 'size-option size-option-off selected-off' : 
+        sizeOptions.item(i).classList.value = 'size-option size-option-off';
+
+    for (let i = 0; i < qualityOptions.length; i++)
+      qualityOptions.item(i).classList.value === 'quality-option quality-option-on selected-on' ?
+        qualityOptions.item(i).classList.value = 'quality-option quality-option-off selected-off' :
+        qualityOptions.item(i).classList.value = 'quality-option quality-option-off';
 
     for (let i = 0; i < a.length; i++)
       a.item(i).style.setProperty('color', `${colors['lavender']}`);
+  } else { 
+    body.style.setProperty('color', `${colors['ebony']}`);
+    body.style.setProperty('background-color', `${colors['gold']}`);
+    footer.style.setProperty('background-color', `${colors['gold']}`);
+    header.style.setProperty('background-color', `${colors['gold']}`);
+    button.style.setProperty('background-color', `${colors['ebony']}`);
+
+    for (let i = 0; i < sizeOptions.length; i++)
+      sizeOptions.item(i).classList.value === 'size-option size-option-off selected-off' ?
+        sizeOptions.item(i).classList.value = 'size-option size-option-on selected-on' : 
+        sizeOptions.item(i).classList.value = 'size-option size-option-on';
+
+    for (let i = 0; i < qualityOptions.length; i++)
+      qualityOptions.item(i).classList.value === 'quality-option quality-option-off selected-off' ?
+        qualityOptions.item(i).classList.value = 'quality-option quality-option-on selected-on' :
+        qualityOptions.item(i).classList.value = 'quality-option quality-option-on';
+    
+    for (let i = 0; i < a.length; i++)
+      a.item(i).style.setProperty('color', `${colors['violet']}`);
   }
 };
 
 var togglePower = function () {
-  var isOn = document.getElementById('power').textContent === '🌙';
-
   document.getElementById('power').textContent = isOn ? '💡' : '🌙';
   isOn = !isOn;
-  toggleTheme(isOn) 
+  toggleTheme(); 
 };
 
-let vh = window.innerHeight * 0.01;
-document.documentElement.style.setProperty('--vh', `${vh}px`);
+var selectFontSize = function (element, fontOption) {
+  var 
+    options = document.getElementsByClassName('size-option'),
+    size = '';
 
-window.addEventListener('resize', () => {
-  let vh = window.innerHeight * 0.01;
-  document.documentElement.style.setProperty('--vh', `${vh}px`);
-});
+  if (fontOption === -1) size = 'sm';
+  else if (fontOption === 1) size = 'lg';
+  else size = '';
+
+  fontSizeElements.forEach(e => {
+    for (let i = 0; i < e.length; i++) {
+      if (e.item(i).classList.value.includes('-')) 
+        e.item(i).classList = e.item(i).classList.value.split('-')[1];
+      if (e.item(i)) {
+        e.item(i).classList = `${size}${size.length > 0 ? '-': ''}${e.item(i).classList}`;
+      }
+    }
+  });
+
+  for (let i = 0; i < options.length; i++)
+    isOn ? 
+      options.item(i).classList.value = 'size-option size-option-on' :
+      options.item(i).classList.value = 'size-option size-option-off';
+
+  element.classList.value += isOn ? ` selected-on` : ` selected-off`;
+}
+
+var selectQualityLevel = function (element) {
+  var options = document.getElementsByClassName('quality-option');
+
+  for (let i = 0; i < options.length; i++)
+    isOn ?
+      options.item(i).classList.value = 'quality-option quality-option-on' :
+      options.item(i).classList.value = 'quality-option quality-option-off';
+  
+  element.classList.value += isOn ? ` selected-on` : ` selected-off`;
+}

@@ -22,7 +22,7 @@ header {
 }
 
 footer {
-  width: 97.5%;
+  width: 98%;
   bottom: -30px;
   margin-left: -3px;
   margin-bottom: 3px;
@@ -74,7 +74,7 @@ footer {
 main { flex: 1 0 auto; }
 
 a:link, a:active { color: #05a; }
-a:visited { color: #409; }
+a:visited { color: #307; }
 a:hover { color: #a0a; cursor: pointer; }
 a { text-decoration: none; }
 
@@ -85,32 +85,75 @@ a { text-decoration: none; }
  */
 
 /* Default */
-h1 { font-size: 36px; 
-  padding-top: 15px; }
-h2 { font-size: 24px; }
-h3, .lang-headers { font-size: 13px; }
-.check-it { font-size: 54px; }
-.power { font-size: 24px; }
+h1 { padding-top: 15px; }
 .lang { width: 100%; }
+.power { font-size: 24px; }
+
+.h1 { font-size: 36px; }
+.lg-h1 { font-size: 42px; }
+.sm-h1 { font-size: 30px; }
+
+.h2 { font-size: 24px; }
+.lg-h2 { font-size: 30px; }
+.sm-h2 { font-size: 18px; }
+
+.h3, .lang-headers { font-size: 13px; }
+.h4 { font-size: 54px; }
 .description { font-size: 24px; }
+
+.lg-h3, .lg-lang-headers { font-size: 20px; }
+.lg-h4 { font-size: 60px; }
+.lg-description { font-size: 30px; }
+
+.sm-h3, .sm-lang-headers { font-size: 10px; }
+.sm-h4 { font-size: 42px; }
+.sm-description { font-size: 18px; }
+.main-content{ width: 80%; }
 
 /* Mid-Size */
 @media (min-width: 720px) {
-  h1 { font-size: 45px; 
-    padding-top: 15px; }
-  h2 { font-size: 24px; }
-  h3, .lang-headers, p { font-size: 20px; }
-  .check-it { font-size: 54px; }
+  footer { width: 99%; }
+  .h1 { font-size: 45px; }
+  .h2 { font-size: 24px; }
+  .h3, .lang-headers, .p { font-size: 20px; }
+  .h4 { font-size: 54px; }
   .description { font-size: 24px; }
+  
+  .lg-h1 { font-size: 52px; }
+  .lg-h2 { font-size: 30px; }
+  .lg-h3, .lg-lang-headers, .lg-p { font-size: 26px; }
+  .lg-h4 { font-size: 60px; }
+  .lg-description { font-size: 30px; }
+  
+  .sm-h1 { font-size: 38px; }
+  .sm-h2 { font-size: 18px; }
+  .sm-h3, .sm-lang-headers, .sm-p { font-size: 14px; }
+  .sm-h4 { font-size: 48px; }
+  .sm-description { font-size: 18px; }
+  .main-content{ width: 70%; }
 }
 
 /* Full-Size */
 @media (min-width: 1000px) {
-  h1 { font-size: 60px;}
-  h2 { font-size: 36px; }
-  h3, .lang-headers, p { font-size: 25px; }
-  .check-it { font-size: 60px; } 
+  footer { width: 99.5%; }
+  .h1 { font-size: 60px;}
+  .h2 { font-size: 36px; }
+  .h3, .lang-headers, .p { font-size: 25px; }
+  .h4 { font-size: 60px; } 
   .description { font-size: 30px; }
+
+  .lg-h1 { font-size: 70px;}
+  .lg-h2 { font-size: 42px; }
+  .lg-h3, .lg-lang-headers, .lg-p { font-size: 32px; }
+  .lg-h4 { font-size: 70px; } 
+  .lg-description { font-size: 36px; }
+
+  .sm-h1 { font-size: 54px;}
+  .sm- h2 { font-size: 30px; }
+  .sm-h3, .sm-lang-headers, .sm-p { font-size: 18px; }
+  .sm-h4 { font-size: 54px; } 
+  .sm-description { font-size: 24px; }
+  .main-content{ width: 66%; }
 }
 
 /* * { border: solid 1px crimson; } */

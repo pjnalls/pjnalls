@@ -1,6 +1,8 @@
 'use strict';
 
-var isOn = document.getElementById('power').textContent === '🌙';
+var 
+  isOn = document.getElementById('power').textContent === '🌙',
+  fontOption = 0;
 
 var toggleTheme = function () {
   var 
@@ -72,8 +74,69 @@ var togglePower = function () {
   toggleTheme(); 
 };
 
-var selectFontSize = function (element) {
-  var options = document.getElementsByClassName('size-option');
+var selectFontSize = function (element, offset) {
+  /*
+    h1 { font-size: 36px; 
+      padding-top: 15px; }
+    h2 { font-size: 24px; }
+    h3, .lang-headers { font-size: 13px; }
+    .check-it { font-size: 54px; }
+    .power { font-size: 24px; }
+    .lang { width: 100%; }
+    .description { font-size: 24px; }
+  */
+
+  var 
+    options = document.getElementsByClassName('size-option'),
+    h1 = document.getElementsByTagName('h1'),
+    h2 = document.getElementsByTagName('h2'),
+    h3 = document.getElementsByTagName('h3'),
+    checkIt = document.getElementsByClassName('check-it'),
+    power = document.getElementsByClassName('power'),
+    lang = document.getElementsByClassName('lang'),
+    description = document.getElementsByClassName('description'),
+    change = 0;
+
+  if (fontOption === -1) {
+    if (offset === 0) change = 7.5, fontOption = 0;
+    else if (offset === 1) change = 15, fontOption = 1;
+  } 
+  else if (fontOption === 1) {
+    if (offset === 0) change = -7.5, fontOption = 0;
+    else if (offset === 1) change = -15, fontOption = -1;
+  } else if (fontOption === 0) {
+    if (offset === 1) change = 7.5, fontOption = 1;
+    else if (offset === -1) change = -7.5, fontOption = -1;
+  }
+
+  for (let i = 0; i < h1.length; i++) {
+    let px = h1.item(i).style.fontSize.split('p')[0];
+    h1.item(i).style.fontSize == `${px + change}px`;
+  }
+  for (let i = 0; i < h2.length; i++) {
+    let px = h2.item(i).style.fontSize.split('p')[0];
+    h2.item(i).style.fontSize == `${px + change}px`;
+  }
+  for (let i = 0; i < h3.length; i++) {
+    let px = h3.item(i).style.fontSize.split('p')[0];
+    h3.item(i).style.fontSize == `${px + change}px`;
+  }
+  for (let i = 0; i < checkIt.length; i++) {
+    let px = checkIt.item(i).style.fontSize.split('p')[0];
+    checkIt.item(i).style.fontSize == `${px + change}px`;
+  }
+  for (let i = 0; i < power.length; i++) {
+    let px = power.item(i).style.fontSize.split('p')[0];
+    power.item(i).style.fontSize == `${px + change}px`;
+  }
+  for (let i = 0; i < lang.length; i++) {
+    let px = lang.item(i).style.fontSize.split('p')[0];
+    lang.item(i).style.fontSize == `${px + change}px`;
+  }
+  for (let i = 0; i < description.length; i++) {
+    let px = description.item(i).style.fontSize.split('p')[0];
+    description.item(i).style.fontSize == `${px + change}px`;
+  }
 
   for (let i = 0; i < options.length; i++)
     isOn ? 

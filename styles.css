@@ -97,15 +97,15 @@ h1 { padding-top: 15px; }
 .lg-h2 { font-size: 30px; }
 .sm-h2 { font-size: 18px; }
 
-.h3, .lang-headers { font-size: 13px; }
+.h3, .lang-headers, .p { font-size: 20px; }
 .h4 { font-size: 54px; }
 .description { font-size: 24px; }
 
-.lg-h3, .lg-lang-headers { font-size: 20px; }
+.lg-h3, .lg-lang-headers, .lg-p { font-size: 26px; }
 .lg-h4 { font-size: 60px; }
 .lg-description { font-size: 30px; }
 
-.sm-h3, .sm-lang-headers { font-size: 10px; }
+.sm-h3, .sm-lang-headers, .sm-p { font-size: 15px; }
 .sm-h4 { font-size: 42px; }
 .sm-description { font-size: 18px; }
 .main-content{ width: 80%; }
@@ -127,7 +127,7 @@ h1 { padding-top: 15px; }
   
   .sm-h1 { font-size: 38px; }
   .sm-h2 { font-size: 18px; }
-  .sm-h3, .sm-lang-headers, .sm-p { font-size: 14px; }
+  .sm-h3, .sm-lang-headers, .sm-p { font-size: 15px; }
   .sm-h4 { font-size: 48px; }
   .sm-description { font-size: 18px; }
   .main-content{ width: 70%; }

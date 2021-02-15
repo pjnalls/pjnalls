@@ -1,5 +1,5 @@
 <br>
-<h3 align="center">Hi there 🙋🏾‍♂️, I'm current working on a new project — Angularization 📐👨🏾‍💻.</h3>
+<h3 align="center">Hi there 🙋🏾‍♂️, I'm current working on a new project — <a href="https://github.com/pjnalls/Angularization"><b>Angularization<b></a> 📐👨🏾‍💻.</h3>
 
 [![pjnalls' GitHub stats](https://github-readme-stats.vercel.app/api?username=pjnalls&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,7 +1,7 @@
 <br>
 <h3 align="center">Hi there 🙋🏾‍♂️, I'm currently working on a new project — <a href="https://github.com/pjnalls/Angularization"><b>Angularization</b></a> 📐👨🏾‍💻.<br>
 <br>
-Check it out and please give it a ⭐ if you like it.</h3>
+Check it out and please give it a ⭐ if you find it useful.</h3>
 <br>
 <br>
 

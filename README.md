@@ -1,5 +1,5 @@
 <br>
-<h3 align="center">Hi there 🙋🏾‍♂️, I'm currently working on a new project — <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" width="20px"/> Angularization</b></a>... 👨🏾‍💻.
+<h3 align="center">Hi there 🙋🏾‍♂️, I'm currently working on a new project — <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png" width="20px"/> Angular Material Examples</b></a>... 👨🏾‍💻.
 
 <br>
 <br>
@@ -8,8 +8,8 @@ Check it out and please give it a ⭐ if you think it'll be useful.</h3>
 
 <div align="center">
 
-<!-- <img src="https://bigheads.io/svg?accessory=roundGlasses&body=chest&circleColor=blue&clothing=shirt&clothingColor=blue&eyebrows=concerned&eyes=happy&faceMask=false&faceMaskColor=black&facialHair=none&graphic=none&hair=buzz&hairColor=black&hat=none&hatColor=black&lashes=false&&mask=false&mouth=openSmile&skinTone=dark" alt="pjnalls the Greeter" width="250" />
-
+<!--
+<img src="https://bigheads.io/svg?accessory=roundGlasses&body=chest&circleColor=blue&clothing=shirt&clothingColor=blue&eyebrows=concerned&eyes=happy&faceMask=false&faceMaskColor=black&facialHair=none&graphic=none&hair=buzz&hairColor=black&hat=none&hatColor=black&lashes=false&&mask=false&mouth=openSmile&skinTone=dark" alt="pjnalls the Greeter" width="250" />
 -->
 
 <br>

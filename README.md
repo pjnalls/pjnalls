@@ -15,7 +15,7 @@ My latest work is the <a href="https://github.com/pjnalls/test-driven-javascript
 
 
 <div align="center">
-Check it out all my repositories, and please give them a ⭐ if you find any of them useful.
+Check out all of my repositories, and please give them a ⭐ if you find any of them useful.
 </div>
 
 <div align="center">

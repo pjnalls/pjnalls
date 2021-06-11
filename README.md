@@ -7,7 +7,7 @@ Hi there 🙋🏾‍♂️.
 I'm the creator of <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png" width="20px"/> Angular Material Examples</b></a>.
 <br> 
 
-My latest work is my own version of the <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`AStar` algorithm, test-driven-developed with JavaScript</b></a>.
+My latest work is my own version of the <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`A*` search algorithm, test-driven-developed with JavaScript</b></a>.
 
 </h3>
 

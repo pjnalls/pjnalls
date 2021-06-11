@@ -1,5 +1,8 @@
 <br>
-<h3 align="center">Hi there 🙋🏾‍♂️.
+<h3 align="center">
+<br>
+Hi there 🙋🏾‍♂️.
+<br>
 <br>
 I'm the creator of <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png" width="20px"/> Angular Material Examples</b></a>.
 <br> 

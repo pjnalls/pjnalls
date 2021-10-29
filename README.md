@@ -3,9 +3,14 @@
 <br>
 Hi there 🙋🏾‍♂️.
 <br>
+</h3>
+
 <br>
 <hr>
 <br>
+
+<h3 align="center">
+
 I'm the creator of <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" alt="A Degrees icon." width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png"  alt="Angular Materials Examples icon." width="20px"/> Angular Material Examples</b></a>.
 
 <br>

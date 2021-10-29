@@ -4,13 +4,22 @@
 Hi there 🙋🏾‍♂️.
 <br>
 <br>
-I'm the creator of <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png" width="20px"/> Angular Material Examples</b></a>.
-<br> 
+<hr>
+<br>
+I'm the creator of <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" alt="A Degrees icon." width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png"  alt="Angular Materials Examples icon." width="20px"/> Angular Material Examples</b></a>.
+
+<br>
 
 My latest work is my own version of the <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`A*` search algorithm, test-driven-developed with JavaScript</b></a>.
 
+<br>
+
+Also, my latest work is <a href="https://github.com/pjnalls/ProblemSolvingProgramming.js"><img src="img/psp.js.png" width="20px" alt="Problem-Solving Programming icon"> <b>ProblemSolvingProgramming.js</b></a> — a process for completely clarifying any given problem statement to confidently code your solution.
+
 </h3>
 
+<br>
+<hr>
 <br>
 
 

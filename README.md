@@ -30,11 +30,11 @@ Beyond web development, I consider myself a thinker and a life-long learner of a
 
 Please feel free to visit my repos and give them a ⭐ if you find any of them useful.
 
-For `Angular` projects check out <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" alt="A Degrees icon." width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png"  alt="Angular Materials Examples icon." width="20px"/> Angular Material Examples</b></a>.
+For `Angular` projects, check out <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" alt="A Degrees icon." width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png"  alt="Angular Materials Examples icon." width="20px"/> Angular Material Examples</b></a>.
 <br>
-For `JavaScript Algorithms` check out my latest <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`A*` search algorithm, test-driven-developed with JavaScript</b></a>.
+For `JavaScript Algorithms`, check out my latest <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`A*` search algorithm, test-driven-developed with JavaScript</b></a>.
 <br>
-For `Problem-solving with JavaScript` check out <a href="https://github.com/pjnalls/ProblemSolvingProgramming.js"><img src="img/psp.js.png" width="20px" alt="Problem-Solving Programming icon"> <b>ProblemSolvingProgramming.js</b></a> — a process for completely clarifying any given problem statement to confidently code your solution.
+For `Problem-solving with JavaScript`, check out <a href="https://github.com/pjnalls/ProblemSolvingProgramming.js"><img src="img/psp.js.png" width="20px" alt="Problem-Solving Programming icon"> <b>ProblemSolvingProgramming.js</b></a> — a process for completely clarifying any given problem statement to confidently code your solution.
 
 </p>
 

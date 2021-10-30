@@ -1,6 +1,6 @@
 body {
-  background-color: #ffd800;
-  color: #1f1f1f;
+  background-color: #ffe877;
+  color: #0c208c;
 }
 .container {
   display: flex;
@@ -12,7 +12,7 @@ header, footer {
   flex-shrink: 0;
   position: fixed;
   width: 95%;
-  background-color: #ffd800;
+  background-color: #ffe877;
 }
 header { 
   width: 100%;
@@ -31,7 +31,7 @@ footer {
 }
 .size-option-on, .quality-option-on {
   font-weight: bold;
-  color: #000;
+  color: #0c208c;
   padding-left: 4px;
   margin: 0;
   padding-bottom: 0;
@@ -49,17 +49,17 @@ footer {
 
 
 .selected-on {
-  -webkit-text-stroke: 1.5px #000;
+  -webkit-text-stroke: 1.5px #0c208c;
   color: #fff !important;
 }
 
 .selected-off {
-  -webkit-text-stroke: 1.5px #000;
-  color: #ffd800 !important;
+  -webkit-text-stroke: 1.5px #0c208c;
+  color: #ffe877 !important;
 }
 
 .power { 
-  background-color: #1f1f1f;
+  background-color: #0f289c;
   padding-left: 7.5px;
   padding-right: 7.5px;
   height: 45px;

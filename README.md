@@ -25,6 +25,7 @@ Beyond web development, I consider myself a thinker and a life-long learner of m
 
 ...
 <br>
+
 <hr>
 <br>
 
@@ -38,13 +39,9 @@ For `Problem-solving with JavaScript`, check out <a href="https://github.com/pjn
 
 </p>
 
-
-
-
 <br>
 <hr>
 <br>
-
 
 <div align="center">
 

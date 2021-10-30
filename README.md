@@ -11,8 +11,6 @@
   src="img/github-profile-banner.png">
 </div>
 <br>
-<hr>
-<br>
 
 <p align="left">
 I'm a web developer who dedicates most of their time toward JavaScript development, e.g.,problem-solving algorithms, building full-stack, Angular and .NET web apps, implementing Angular design systems, and creating web pages with pure HTML, CSS, and ES6 JavaScript.
@@ -26,6 +24,9 @@ Beyond web development, I consider myself a thinker and a life-long learner of a
 👆🏾 I see the importance of general world understanding in order to truly know the purpose of JavaScript, what it can do, and <em>why</em> it does what it does.
 
 ...
+<br>
+<hr>
+<br>
 
 Please feel free to visit my repos and give them a ⭐ if you find any of them useful.
 

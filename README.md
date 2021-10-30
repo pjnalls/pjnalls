@@ -17,7 +17,7 @@ I'm a web developer who dedicates most of their time toward JavaScript developme
 
 <br>
 
-Beyond web development, I consider myself a thinker and a life-long learner of many things in the world — I consider myself for `AllThings.js`.
+Beyond web development, I consider myself a thinker and a life-long learner of many things in the world of computation and society — I consider myself for `AllThings.js`.
 
 > A great specialist is also a good generalist.
 

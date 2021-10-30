@@ -1,27 +1,44 @@
 <br>
-<h3 align="center">
+<h1 align="left">
 <br>
-Hi there 🙋🏾‍♂️.
+<b>Hi, I'm pjnalls 🙋🏾‍♂️👨🏾‍💻.</b>
 <br>
-</h3>
+</h1>
 
+<div align="center">
+<img 
+  alt="GitHub Profile Banner image." 
+  src="img/github-profile-banner.png">
+</div>
 <br>
 <hr>
 <br>
 
-<h3 align="center">
-
-I'm the creator of <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" alt="A Degrees icon." width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png"  alt="Angular Materials Examples icon." width="20px"/> Angular Material Examples</b></a>.
-
-<br>
-
-My latest work is my own version of the <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`A*` search algorithm, test-driven-developed with JavaScript</b></a>.
+<p align="left">
+I'm a web developer who dedicates most of their time toward JavaScript development, e.g.,problem-solving algorithms, building full-stack, Angular and .NET web apps, implementing Angular design systems, and creating web pages with pure HTML, CSS, and ES6 JavaScript.
 
 <br>
 
-Also, my latest work is <a href="https://github.com/pjnalls/ProblemSolvingProgramming.js"><img src="img/psp.js.png" width="20px" alt="Problem-Solving Programming icon"> <b>ProblemSolvingProgramming.js</b></a> — a process for completely clarifying any given problem statement to confidently code your solution.
+Beyond web development, I consider myself a thinker and a life-long learner of a large amount of things in the world, so I consider myself an engineer for `AllThings.js`.
 
-</h3>
+> A great specialist is also a good generalist.
+
+👆🏾 I see the importance general understanding of the world to truly know the purpose of JavaScript, what it can do, and <em>why</em> it does what it does.
+
+...
+
+Please feel free to visit my repos and give them a ⭐ if you find any of them useful.
+
+For `Angular` projects check out <a href="https://github.com/pjnalls/Angularization"><b><img src="img/a-degrees.png" alt="A Degrees icon." width="20px"/> Angularization</b></a> and <a href="https://github.com/pjnalls/ng-material-examples"><b><img src="img/ng-mat-ex.png"  alt="Angular Materials Examples icon." width="20px"/> Angular Material Examples</b></a>.
+<br>
+For `JavaScript Algorithms` check out my latest <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`A*` search algorithm, test-driven-developed with JavaScript</b></a>.
+<br>
+For `Problem-solving with JavaScript` check out <a href="https://github.com/pjnalls/ProblemSolvingProgramming.js"><img src="img/psp.js.png" width="20px" alt="Problem-Solving Programming icon"> <b>ProblemSolvingProgramming.js</b></a> — a process for completely clarifying any given problem statement to confidently code your solution.
+
+</p>
+
+
+
 
 <br>
 <hr>
@@ -29,7 +46,7 @@ Also, my latest work is <a href="https://github.com/pjnalls/ProblemSolvingProgra
 
 
 <div align="center">
-Check out all of my repositories, and please give them a ⭐ if you find any of them useful.
+
 </div>
 
 <div align="center">

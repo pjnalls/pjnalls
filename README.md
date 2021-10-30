@@ -23,7 +23,7 @@ Beyond web development, I consider myself a thinker and a life-long learner of a
 
 > A great specialist is also a good generalist.
 
-👆🏾 I see the importance general understanding of the world to truly know the purpose of JavaScript, what it can do, and <em>why</em> it does what it does.
+👆🏾 I see the importance of general world understanding in order to truly know the purpose of JavaScript, what it can do, and <em>why</em> it does what it does.
 
 ...
 

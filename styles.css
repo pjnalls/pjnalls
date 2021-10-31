@@ -19,7 +19,7 @@ header {
   width: 100%;
   top: -15px;
   padding-left: 20%;
-  height: 90px;
+  height: 120px;
 }
 
 footer {
@@ -168,6 +168,17 @@ h1 {
 }
 .main-content {
   width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 0;
+}
+
+/* Small-Size */
+@media (min-width: 0px) {
+  header {
+    height: 108px;
+    padding-left: 8%;
+  }
 }
 
 /* Mid-Size */
@@ -230,8 +241,8 @@ h1 {
   }
 
   header {
-    height: 108px;
-    padding-left: 8%;
+    height: 148px;
+    padding-left: 5%;
   }
 }
 
@@ -295,8 +306,8 @@ h1 {
   }
 
   header {
-    height: 150px;
-    padding-left: 12.5%;
+    height: 190px;
+    padding-left: 12.75%;
   }
 }
 

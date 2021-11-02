@@ -13,7 +13,7 @@
 <br>
 
 <p align="left">
-I'm a web developer who dedicates most of my time toward JavaScript development, e.g., problem-solving algorithms, building full-stack, Angular and .NET web apps, implementing Angular design systems, and creating web pages with pure HTML, CSS, and ES6 JavaScript.
+I am a web developer and dedicate most of my time toward JavaScript development, e.g., problem-solving algorithms, building full-stack, Angular and .NET web apps, implementing Angular design systems, and creating web pages with pure HTML, CSS, and ES6 JavaScript.
 
 <br>
 

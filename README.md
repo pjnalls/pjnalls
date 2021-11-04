@@ -21,7 +21,7 @@ Beyond web development, I consider myself a thinker and a life-long learner of m
 
 > A great specialist is also a good generalist.
 
-👆🏾 I see the importance of a broad and deep understanding of JavaScript, its roles in web and computation at large, and, also, its benefits and areas for improvement in society.
+👆🏾 I see the importance of a broad and deep understanding of JavaScript, its roles in the web and computation at large, and, also, its benefits and areas for improvement in society.
 
 ...
 <br>

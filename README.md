@@ -13,15 +13,15 @@
 <br>
 
 <p align="left">
-I am a web developer and dedicate most of my time toward JavaScript development, e.g., problem-solving algorithms, building full-stack, Angular and .NET web apps, implementing Angular design systems, and creating web pages with pure HTML, CSS, and ES6 JavaScript.
+I am a web-developer consultant and dedicate most of my time toward UI and JavaScript development, e.g., problem-solving algorithms, building Angular, front-end client apps, implementing Angular design systems, and creating web pages with pure HTML, CSS, and ES6 JavaScript.
 
 <br>
 
-Beyond web development, I consider myself a thinker and a life-long learner of many things in the world of computation and society — considering myself for `AllThings.js`.
+Beyond web development, I consider myself a deep thinker and a life-long learner of many things in the world of computation and society — considering myself for `AllThings.js`.
 
 > A great specialist is also a good generalist.
 
-👆🏾 I see the importance of a broad and deep understanding of JavaScript, its roles in the web and computation at large, and, also, its benefits and areas for improvement in society.
+👆🏾 I see the importance of a broad and deep understanding of the UI and JavaScript, its roles in the web and computation at large, and, also, its benefits.
 
 ...
 <br>

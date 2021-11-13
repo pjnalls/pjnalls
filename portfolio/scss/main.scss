@@ -1,4 +1,4 @@
-@import "config", "home", "menu", "about";
+@import "config", "home", "menu", "about", "projects";
 
 body {
   background: $primary-color;
@@ -15,7 +15,7 @@ h3 {
 }
 
 a {
-  color: set-text-color($link-color--unvisited);
+  color: $text-color;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ main {
       @include transition-ease;
 
       &:hover {
-        color: set-text-color($link-color--hover);
+        color: $link-color--hover;
       }
     }
   }
@@ -57,5 +57,5 @@ footer {
   right: 1rem;
   text-align: right;
   padding: 1rem;
-  color: set-text-color($text-color);
+  color: $text-color;
 }

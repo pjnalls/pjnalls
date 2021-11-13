@@ -1,4 +1,4 @@
-@import "config", "home", "menu";
+@import "config", "home", "menu", "about";
 
 body {
   background: $primary-color;
@@ -17,6 +17,10 @@ h3 {
 a {
   color: set-text-color($link-color--unvisited);
   text-decoration: none;
+}
+
+.text-secondary {
+  color: $secondary-color;
 }
 
 header {

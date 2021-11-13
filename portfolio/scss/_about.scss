@@ -1,0 +1,47 @@
+.about {
+  padding-bottom: 2rem;
+  height: 100vh;
+  &__bio-image {
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+
+    p {
+      margin-bottom: 2rem;
+    }
+  }
+
+  background: linear-gradient(
+      to right,
+      rgba($primary-color, 1),
+      rgba($primary-color, 0.6)
+    ),
+    url("/dist/background-img.jpg") center top;
+  background-size: cover;
+
+  &__bio {
+    width: 80%;
+    text-align: center;
+
+    .text-secondary {
+      padding-bottom: 1rem;
+    }
+  }
+
+  .bio-image {
+    font-size: 120px;
+    padding-bottom: 2rem;
+  }
+
+  .social-icons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  footer {
+    transform: rotate(90deg) translate(-3rem, -5rem);
+  }
+}

@@ -1,0 +1,30 @@
+/**
+ *  Our global SCSS variables.
+ */
+$primary-color: #3f48cc;
+$secondary-color: #fdeca6;
+$tertiary-color: #fff;
+$text-color: #fff;
+$link-color--unvisited: #9fe5ff;
+$link-color--hover: #bf6fff;
+
+/**
+ *  Rules for reseting our styles.
+ */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin transition-ease {
+  transition: all 0.5s ease-in-out;
+}
+
+@function set-text-color($color) {
+  @if ((lightness($color) > 40%)) {
+    @return $tertiary-color;
+  } @else {
+    @return $primary-color;
+  }
+}

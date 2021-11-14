@@ -245,7 +245,7 @@
 }
 
 .projects__bio-image {
-  height: 30vh;
+  height: 32.5vh;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -267,7 +267,7 @@
 
 .projects__bio-image .text-secondary {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .projects__items {
@@ -384,9 +384,6 @@
   }
   .about__bio {
     font-size: 1.5rem;
-  }
-  .projects__bio-image {
-    height: 40vh;
   }
   .projects__items {
     -ms-grid-columns: (1fr)[2];

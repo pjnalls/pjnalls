@@ -31,6 +31,10 @@
   font-weight: 500;
 }
 
+.home__title {
+  padding: 1rem;
+}
+
 .menu-btn {
   position: absolute;
   z-index: 1;
@@ -471,8 +475,8 @@ main .social-icons a:hover {
 footer {
   font-size: 1rem;
   position: fixed;
-  bottom: 0.4rem;
-  right: 1rem;
+  bottom: 0.5rem;
+  right: 0.5rem;
   text-align: right;
   padding: 1rem;
   color: #fff;

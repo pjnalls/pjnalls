@@ -2,174 +2,47 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta
-      name="description"
-      content="Front-end engineering specialist and generalist in computation exploring the how and the why behind JavaScript, software engineering, and the web."
-    />
-    <meta name="keywords" content="JavaScript, Engineer, Software, Web" />
-    <meta name="author" content="@pjnalls" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>pjnalls - Engineer for AllThings.js</title>
+    <link rel="stylesheet" href="dist/css/main.css" />
+    <link rel="stylesheet" href="vendor/fontawesome/all.css" />
+    <title>pjnalls — Portfolio</title>
     <link rel="icon" type="image/png" href="p.png" />
-    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <!-- Begin CONTAINER -->
-    <div class="container">
-      <!-- Begin HEADER -->
-      <header id="header">
-        <h1>👨🏾‍💻 pjnalls</h1>
-      </header>
-      <!-- End HEADER -->
-
-      <!-- Begin MAIN CONTENT -->
-      <main class="content">
-        <br /><br /><br /><br /><br /><br />
-
-        <table class="main-content">
-          <tr>
-            <td>
-              <p
-                class="subtitle"
-                style="color: #fdeca6; text-align: left; margin-top: 60px"
-              >
-                <b>
-                  Engineer for AllThings.js 🌈, Thinker 🧠, &
-                  <br />
-                  Problem-Solving Programmer 🧮.
-                </b>
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <h2 class="description" style="text-align: left">
-                <a href="https://github.com/pjnalls"><b>@pjnalls</b></a>
-                likes exploring JavaScript, <br />
-                from core ECMAScript specifications to modern front-end development
-                tools.
-              </h2>
-              <br />
-              <br />
-              <h4
-                class="check"
-                style="
-                  text-align: left;
-                  font-weight: 400;
-                  margin-top: 45px;
-                  margin-bottom: 45px;
-                "
-              >
-                Check out their projects below:
-              </h4>
-            </td>
-          </tr>
-          <tr></tr>
-          <tr style="text-align: center">
-            <td style="text-align: left">
-              <p style="margin-left: 3.33%">
-                •
-                <a href="https://forzen.io"> <b>Forzen.io</b> 🌅: </a>
-                <span style="font-weight: normal">
-                  We are for Zenful solutions — a portfolio-showcasing website
-                  for pjnalls JavaScript side projects.</span
-                >
-                <br /><br />
-                •
-                <a href="https://github.com/pjnalls/Angularization">
-                  <b>Angularization</b> 📐:
-                </a>
-                <span style="font-weight: normal">
-                  A complete guide for getting started with visual test-driven,
-                  component-driven <b>Angular</b> development with
-                  Storybook.</span
-                >
-                <br /><br />
-                •
-                <a href="https://github.com/pjnalls/ng-material-examples">
-                  <b>Ng Material Examples</b> 🟪:
-                </a>
-                <span style="font-weight: normal">
-                  Fully functional Angular Material Design component
-                  examples.</span
-                >
-                <br /><br />
-                •
-                <a href="https://github.com/pjnalls/test-driven-javascript-dsa">
-                  <b>Test-Driven JavaScript Data Structures and Algorithms</b>
-                  🧮:
-                </a>
-                Check out their versions of the
-                <a
-                  href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"
-                  ><b>A* search</b></a
-                >
-                and
-                <a
-                  href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/dijkstra.js"
-                  ><b>Dijkstra's</b></a
-                >
-                algorithms. <br /><br />
-                •
-                <a
-                  href="https://github.com/pjnalls/ProblemSolvingProgramming.js"
-                >
-                  <b>ProblemSolvingProgramming.js</b> 🟨:
-                </a>
-                <span style="font-weight: normal">
-                  a process for completely clarifying any given problem
-                  statement to confidently code your solution.</span
-                >
-                <br /><br />
-                •
-                <a href="https://github.com/pjnalls/unsweet.js">
-                  <b>Unsweet.js</b> 🍵:
-                </a>
-                <span style="font-weight: normal">
-                  Plain JavaScript for the entire web stack. No added
-                  dependencies. Sugarless yet decadent.</span
-                >
-                <br /><br />
-              </p>
-            </td>
-          </tr>
-        </table>
-        <br /><br /><br />
-      </main>
-      <!-- End MAIN CONTENT -->
-
-      <!-- Begin FOOTER -->
-      <footer>
-        <table style="width: 100% !important">
-          <tr>
-            <td style="text-align: center; width: 100%">
-              <span
-                class="size-option size-option-on"
-                style="font-size: 20px; padding-left: 0"
-                onclick="selectFontSize(this, -1);"
-                >A</span
-              >
-              <span
-                class="size-option size-option-on selected-on"
-                style="font-size: 27.5px"
-                onclick="selectFontSize(this, 0);"
-                >A</span
-              >
-              <span
-                class="size-option size-option-on"
-                style="font-size: 38px"
-                onclick="selectFontSize(this, 1);"
-                >A</span
-              >
-            </td>
-          </tr>
-        </table>
-      </footer>
-      <!-- End FOOTER -->
-    </div>
-    <!-- End CONTAINER -->
-
-    <script src="main.js"></script>
+    <header>
+      <img class="p-icon" src="assets/p-icon.png" alt="pjnalls icon" />
+      <div class="menu-btn">
+        <span class="menu-btn__burger"> </span>
+      </div>
+      <nav class="nav">
+        <ul class="menu-nav">
+          <li class="menu-nav__item active">
+            <a href="index.html" class="menu-nav__link">🏡 Home </a>
+          </li>
+          <li class="menu-nav__item">
+            <a href="about.html" class="menu-nav__link">👨🏾‍💻 About Me </a>
+          </li>
+          <li class="menu-nav__item">
+            <a href="projects.html" class="menu-nav__link">💼 My Projects </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section class="home">
+        <h2>Hi 👋, I'm</h2>
+        <h1 class="home__name">pjnalls</h1>
+        <h2>UI Front End Developer Consultant</h2>
+        <div class="social-icons">
+          <a href="https://github.com/pjnalls">
+            <i class="fab fa-github fa-2x"></i>
+          </a>
+        </div>
+        <footer>&copy; Copyright 2021</footer>
+      </section>
+    </main>
+    <script src="vendor/fontawesome/all.js"></script>
+    <script src="dist/js/main.js"></script>
   </body>
 </html>

@@ -412,6 +412,15 @@ body {
   line-height: 1;
 }
 
+.p-icon {
+  position: fixed;
+  top: -1rem;
+  left: 0;
+  padding-left: 0;
+  z-index: 3;
+  width: 7.5rem;
+}
+
 h1,
 h2,
 h3 {
@@ -441,8 +450,9 @@ main {
 
 main .social-icons {
   position: fixed;
+  font-size: 1.75rem;
   bottom: 1rem;
-  left: 1rem;
+  left: 0.75rem;
 }
 
 main .social-icons a {

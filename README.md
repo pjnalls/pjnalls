@@ -1,9 +1,6 @@
 <br>
-<h2 align="left">
-<br>
-Hi 👋🏾, I'm pjnalls.
-<br>
-</h2>
+
+## Hi 👋🏾, I'm pjnalls.
 
 <div align="center">
 <img 

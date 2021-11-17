@@ -1,7 +1,7 @@
 <br>
 <h1 align="left">
 <br>
-<b>Hi 👋🏾, I'm pjnalls.</b>
+Hi 👋🏾, I'm pjnalls.
 <br>
 </h1>
 

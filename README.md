@@ -1,9 +1,9 @@
 <br>
-<h1 align="left">
+<h2 align="left">
 <br>
 Hi 👋🏾, I'm pjnalls.
 <br>
-</h1>
+</h2>
 
 <div align="center">
 <img 

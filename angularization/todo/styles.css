@@ -1,0 +1,31 @@
+/** App Configuration Variables */
+* {
+  overflow: hidden;
+}
+/** Global Styling Rule Resets */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #121fa1;
+  color: #fff;
+  height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1;
+}
+::-webkit-scrollbar-track {
+  padding: 2px 0;
+  background: linear-gradient(to bottom, #204eff, #3065ff, #204eff);
+  border-left: 2px solid #abebff;
+}
+::-webkit-scrollbar {
+  width: 1rem;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #204eff, #3065ff, #204eff);
+  border-left: 2px solid #000;
+}
+
+/*# sourceMappingURL=styles.css.map*/

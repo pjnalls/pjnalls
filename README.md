@@ -16,7 +16,7 @@ I am a UI front-end developer consultant and dedicate most of my time toward UI 
 
 > A great specialist is also a good generalist.
 
-👆🏾 I think its important to have a broad and deep understanding of UIs, JavaScript, and overall aesthetics for any application which needs good UX facilitated by a great UI.
+👆🏾 I think it's important to have a broad and deep understanding of UIs, JavaScript, and overall aesthetics for any application which needs good UX facilitated by a great UI.
 
 ...
 <br>

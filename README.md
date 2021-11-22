@@ -10,15 +10,13 @@
 <br>
 
 <p align="left">
-I am a UI front-end developer consultant and dedicate most of my time toward UIs and JavaScript development — e.g., problem-solving algorithms for efficient DOM manipulation, building front-end Angular client apps, implementing Angular design systems, and creating web pages with pure HTML, CSS, and ES6+ JavaScript.
+I am a UI front-end developer consultant and dedicate most of my time toward UI and JavaScript development — e.g., problem-solving algorithms for efficient DOM manipulation, building front-end Angular web apps, implementing a Angular design system, and creating web pages with pure HTML, CSS, and ES6+ JavaScript.
 
 <br>
 
-Beyond web development, I consider myself a deep thinker and a life-long learner of many things in the world of computation and society — considering myself for `AllThings.js`.
-
 > A great specialist is also a good generalist.
 
-👆🏾 I see the importance of a broad and deep understanding of the UI and JavaScript, its roles in the web and computation at large, and, also, its benefits.
+👆🏾 I think its important to have a broad and deep understanding of UIs, JavaScript, and overall aesthetics for any application which needs good UX facilitated by a great UI.
 
 ...
 <br>

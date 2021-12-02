@@ -10,7 +10,7 @@
 <br>
 
 <p align="left">
-I am a UI front-end developer consultant and dedicate most of my time toward UI and JavaScript development — e.g., problem-solving algorithms for efficient DOM manipulation, building front-end Angular web apps, implementing a Angular design system, and creating web pages with pure HTML, CSS, and ES6+ JavaScript.
+I am a UI front-end developer consultant and dedicate most of my time toward UI and JavaScript development — e.g., problem-solving algorithms for efficient, client-side, modern JavaScript; building front-end Angular web apps; implementing a Angular design system; and creating web pages from pure HTML, CSS, and ES6+ JavaScript.
 
 <br>
 

@@ -1,0 +1,28 @@
+@import "./config";
+
+.navbar {
+  background-color: $primary-background-color;
+  color: $secondary-text-color;
+  height: 5rem;
+  .flex {
+    justify-content: space-between;
+    overflow: visible;
+  }
+  h1 {
+    font-weight: 700;
+  }
+  ul {
+    display: flex;
+    a {
+      color: $secondary-text-color;
+      padding: 1rem;
+      margin: 0 0.5rem;
+      border-bottom: 2px transparent solid;
+      @include transition-ease;
+      &:hover {
+        border-bottom-color: $secondary-text-color;
+        @include transition-ease;
+      }
+    }
+  }
+}

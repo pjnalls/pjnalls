@@ -1,0 +1,67 @@
+.showcase {
+  height: 480px;
+  background: linear-gradient(
+      to bottom,
+      rgba($primary-background-color, 1),
+      rgba($secondary-background-color, 0.5)
+    ),
+    url("/jung-cauz/images/ifoa.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+
+  color: $secondary-text-color;
+  position: relative;
+  h1 {
+    font-size: 40px;
+  }
+  p {
+    margin: 20px 0;
+  }
+  .grid {
+    overflow: visible;
+    grid-template-columns: 55% 45%;
+    gap: 60px;
+  }
+  .showcase-form {
+    position: relative;
+    top: 60px;
+    height: 350px;
+    width: 400px;
+    padding: 40px;
+    z-index: 2;
+    .form-control {
+      margin: 30px 0;
+    }
+    select,
+    option {
+      border: 0;
+      border-bottom: 2px solid #999;
+      width: 100%;
+      padding: 3px;
+      font-size: 16px;
+      &:focus {
+        outline: none;
+      }
+    }
+    .play {
+      text-align: right;
+      padding-top: 6rem;
+    }
+  }
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    height: 100px;
+    bottom: -75px;
+    right: 0;
+    left: 0;
+    background: $secondary-text-color;
+    transform: skewY(-3deg);
+    -webkit-transform: skewY(-3deg);
+    -moz-transform: skewY(-3deg);
+    -ms-transform: skewY(-3deg);
+  }
+}

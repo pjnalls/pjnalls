@@ -1,0 +1,3 @@
+# Ignore design system languages due to
+#   Storybook dependency.
+angularization/design-system/ * linguist-vendored

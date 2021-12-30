@@ -24,25 +24,6 @@ Voluptates maiores aliquid quia aliquam labore optio enim hic, a dignissimos qui
 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 
 Ipsam tempora fugiat alias, quasi excepturi, delectus optio voluptates blanditiis veniam eveniet consequatur libero debitis, voluptate harum veritatis earum tenetur dolorem numquam.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-
-Similique nisi veritatis qui vitae dignissimos eveniet est recusandae, veniam repellat nulla, vero nemo! Ut ipsum possimus molestiae nam esse ipsa suscipit.
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-
-Dolorum reiciendis nihil laboriosam sapiente! Laboriosam perspiciatis sed repellat accusantium expedita ea debitis voluptate omnis placeat numquam, dignissimos aliquid ipsa pariatur laudantium.
-
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-
-Necessitatibus hic, debitis vero velit consectetur iste quibusdam, nostrum, maiores totam perspiciatis explicabo recusandae quas dolorum inventore voluptas molestiae provident ullam voluptatem.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus culpa consequuntur accusantium dolorum unde blanditiis, molestias eos perspiciatis qui facere voluptatem nulla eligendi! Modi esse ea libero neque voluptatum laudantium.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-
-Voluptate quis quibusdam nesciunt pariatur. Sunt nostrum cumque, possimus atque totam natus voluptatem? Eveniet pariatur eum numquam excepturi dignissimos culpa provident ipsum!
-      
 `;
 
 const katakanaDictionary = {

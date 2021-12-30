@@ -1,0 +1,76 @@
+$matrix-green-terminal-current: #d0f7d5;
+$matrix-green-terminal-previous: #29ff3f;
+$matrix-green-terminal-background: #252515;
+$digital-purple-terminal-current: #d5d0f7;
+$digital-purple-terminal-previous: #af39f7;
+$digital-purple-terminal-background: #1f1525;
+$hover-color-current: #fff;
+$hover-color-previous: #ffd7a0;
+
+html {
+  /** Make fonts more accessible */
+  font-size: 100%;
+
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  background: $matrix-green-terminal-background;
+  width: 100vw;
+  overflow: hidden;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 500;
+  h1 {
+    position: absolute;
+    display: none;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    height: 120vh;
+    font-weight: 400;
+    font-size: 3.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: $matrix-green-terminal-current;
+
+    writing-mode: horizontal-tb;
+    text-orientation: upright;
+  }
+  
+  #root {
+    position: relative;
+
+    .line-of-code {
+      position: absolute;
+      color: $matrix-green-terminal-previous;
+      padding: 0;
+      margin: 0;
+      line-height: 0;
+      transition: color 0.01s ease-in-out;
+      z-index: 2;
+      &:hover {
+        color: $hover-color-previous;
+        cursor: pointer;
+        .cursor {
+          color: $hover-color-current;
+        }
+      }
+    }
+    .cursor {
+      color: $matrix-green-terminal-current;
+    }
+  }
+}

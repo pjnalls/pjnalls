@@ -21,31 +21,36 @@ body {
   text-orientation: upright;
   background: #252515;
   width: 100vw;
-  overflow: hidden;
+  height: 100vh;
   font-family: "Courier New", Courier, monospace;
   font-weight: 500;
+  overflow: hidden;
 }
 
-body h1 {
-  position: absolute;
+body #root {
+  position: fixed;
+}
+
+body #root h1 {
+  position: fixed;
   display: none;
   z-index: 2;
-  top: 0;
+  top: 33%;
   left: 0;
+  right: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 100%;
-  height: 120vh;
+  width: 100vw;
   font-weight: 400;
   font-size: 3.5rem;
-  text-align: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  text-align: center;
   color: #d0f7d5;
   -webkit-writing-mode: horizontal-tb;
       -ms-writing-mode: lr-tb;
@@ -53,12 +58,8 @@ body h1 {
   text-orientation: upright;
 }
 
-body #root {
-  position: relative;
-}
-
 body #root .line-of-code {
-  position: absolute;
+  position: relative;
   color: #29ff3f;
   padding: 0;
   margin: 0;

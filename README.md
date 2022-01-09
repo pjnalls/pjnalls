@@ -27,7 +27,7 @@ I am a UI front-end developer consultant who dedicates most of their time toward
 Please feel free to visit my repos and give them a ⭐ if you find any of them useful:
 
 
-- For Angular, web-app projects, check out <a href="https://github.com/pjnalls/AngularizationDesignSystem"><b><img src="assets/project-5.jpg" alt="A Degrees icon." width="24px"/> Angularization Design System</b></a> and <a href="https://github.com/pjnalls/ClassicRPGMenu"><b><img src="assets/project-6.jpg"  alt="Big Blue Sky icon." width="24px"/> Big Blue Sky — Classic RPG Menu</b></a>.
+- For Angular, web-app projects, check out <a href="https://github.com/pjnalls/AngularizationDesignSystem"><b><img src="assets/project-5.jpg" alt="A Degrees icon." width="24px"/> Angularization Design System</b></a> and <a href="https://github.com/pjnalls/ng-solid-design"><b><img src="assets/ng-solid-design.png"  alt="A° SOLID icon." width="24px"/> Angular and SOLID Design Principles</b></a>.
 
 - For algorithms with JavaScript, see my implementation of <a href="https://github.com/pjnalls/test-driven-javascript-dsa/blob/main/algorithms/search/a-star.js"><b>`A*` search algorithm, test-driven-developed with JavaScript</b></a>.
 

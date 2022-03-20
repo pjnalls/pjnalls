@@ -4,47 +4,382 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>pjnalls — Portfolio</title>
     <link rel="stylesheet" href="dist/css/main.css" />
     <link rel="stylesheet" href="vendor/fontawesome/all.css" />
-    <title>pjnalls — Portfolio</title>
+    <script src="vendor/fontawesome/all.js"></script>
     <link rel="icon" type="image/png" href="p.png" />
   </head>
-  <body>
-    <header>
-      <a href="index.html">
-        <img class="p-icon" src="assets/p-icon.png" alt="pjnalls icon" />
-      </a>
-      <div class="menu-btn">
-        <span class="menu-btn__burger"> </span>
+  <!-- Credit to @Maclinz. 
+    (https://github.com/Maclinz/JS_CSS_PortfolioProject)
+  -->
+  <body class="main-content">
+    <header class="section sec1 header active" id="home">
+      <div class="header-content">
+        <div class="right-header">
+          <h1 class="name">
+            Hi there 👋, I'm <span>pjnalls</span>.
+            <br />UI Front End Developer & 
+            <br />Angular Consultant.
+          </h1>
+          <p>
+            I'm a UI, front-end developer currently working as an Angular consultant. <br />
+            <br />
+            My suitablity, passion, and keen eye for UIs helps me excel in front-end engineering to find it both meaningful and rewarding.  <br />
+            I thrive and enjoy designing and coding great UI to help meet the needs of the overall UX for different clients. <br />
+            <br />
+            Credit to <a href="https://github.com/Maclinz">@Maclinz</a> for portfolio template.
+          </p>
+        </div>
       </div>
-      <nav class="nav">
-        <ul class="menu-nav">
-          <li class="menu-nav__item active">
-            <a href="index.html" class="menu-nav__link">🏡 Home </a>
-          </li>
-          <li class="menu-nav__item">
-            <a href="about.html" class="menu-nav__link">👨🏾‍💻 About Me </a>
-          </li>
-          <li class="menu-nav__item">
-            <a href="projects.html" class="menu-nav__link">💼 My Projects </a>
-          </li>
-        </ul>
-      </nav>
     </header>
     <main>
-      <section class="home">
-        <h2>Hi 👋, I'm</h2>
-        <h1 class="home__name">pjnalls</h1>
-        <h2 class="home__title">UI Front End Developer Consultant</h2>
-        <div class="social-icons">
-          <a href="https://github.com/pjnalls">
-            <i class="fab fa-github fa-2x"></i>
-          </a>
+      <section class="section sec2 about" id="about">
+        <div class="main-title">
+          <h2>About <span>me</span><span class="bg-text">👨🏾‍💻</span></h2>
         </div>
-        <footer>&copy; Copyright 2021</footer>
+        <div class="about-container">
+          <div class="left-about">
+            <h4>BRIEF BIO</h4>
+            <p>
+              I have extensive experience with HTML, CSS, and JavaScript and am focused on Sass (SCSS) and all-things Angular and its ecosystem.<br />
+              <br />
+              Always learning — even after 2 Bachelor of Science degrees in Computer Science and Computer Graphics (Digital Animation) — I'm forever a student, even in a role as a mentor or a teacher.<br/> 
+              <br />
+              My hobbies include: <br />
+              <br />
+              🎨 painting and drawing, <br />
+              🍳 cooking and food photography, and <br />
+              🎵 writing and producing music.
+            </p>
+          </div>
+          <div class="right-about">
+            <div class="about-item">
+              <div class="abt-text">
+                <p class="large-text">2,000+</p>
+                <p class="small-text">
+                  GitHub <br />
+                  Contribution
+                </p>
+                <p class="xx-large-icon">
+                  <i class="fab fa-github-alt"></i>
+                </p>
+              </div>
+            </div>
+            <div class="about-item">
+              <div class="abt-text">
+                <p class="large-text">4+</p>
+                <p class="small-text">
+                  Years of <br />
+                  experience
+                </p>
+                <p class="xx-large-icon">
+                  <i class="fas fa-brain"></i>
+                </p>
+              </div>
+            </div>
+            <div class="about-item">
+              <div class="abt-text">
+                <p class="large-text">100+</p>
+                <p class="small-text">
+                  Personal<br />
+                  UI Projects
+                </p>
+                <p class="xx-large-icon">
+                  <i class="fas fa-palette"></i>
+                </p>
+              </div>
+            </div>
+            <div class="about-item">
+              <div class="abt-text">
+                <p class="large-text">10,000+</p>
+                <p class="small-text">
+                  Coding Hours<br />
+                </p>
+                <p class="xx-large-icon">
+                  <i class="fas fa-code"></i>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="about-stats">
+          <h4 class="stat-title">SKILLS & PROFICIENCY</h4>
+          <div class="progress-bars">
+            <div class="progress-bar">
+              <p class="prog-title">angular</p>
+              <div class="progress-con">
+                <p class="prog-text">99%</p>
+                <div class="progress">
+                  <span class="angular"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">angular material</p>
+              <div class="progress-con">
+                <p class="prog-text">96%</p>
+                <div class="progress">
+                  <span class="angular-material"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">scss</p>
+              <div class="progress-con">
+                <p class="prog-text">90%</p>
+                <div class="progress">
+                  <span class="scss"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">javascript</p>
+              <div class="progress-con">
+                <p class="prog-text">98%</p>
+                <div class="progress">
+                  <span class="javascript"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">html</p>
+              <div class="progress-con">
+                <p class="prog-text">94%</p>
+                <div class="progress">
+                  <span class="html"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">css</p>
+              <div class="progress-con">
+                <p class="prog-text">94%</p>
+                <div class="progress">
+                  <span class="css"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">git/ci</p>
+              <div class="progress-con">
+                <p class="prog-text">88%</p>
+                <div class="progress">
+                  <span class="git"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">typescript</p>
+              <div class="progress-con">
+                <p class="prog-text">89%</p>
+                <div class="progress">
+                  <span class="typescript"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">redux/rxjs/ngrx</p>
+              <div class="progress-con">
+                <p class="prog-text">80%</p>
+                <div class="progress">
+                  <span class="ngrx"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">storybook</p>
+              <div class="progress-con">
+                <p class="prog-text">84%</p>
+                <div class="progress">
+                  <span class="storybook"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">github</p>
+              <div class="progress-con">
+                <p class="prog-text">90%</p>
+                <div class="progress">
+                  <span class="github"></span>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar">
+              <p class="prog-title">jira/bitbucket</p>
+              <div class="progress-con">
+                <p class="prog-text">92%</p>
+                <div class="progress">
+                  <span class="jira"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h4 class="stat-title">CAREER TIMELINE</h4>
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="tl-icon">
+              <i class="fas fa-briefcase"></i>
+            </div>
+            <p class="tl-duration">2022 — present</p>
+            <h5>Angular Consultant</h5>
+            <p>
+              Provide Angular development and enhancements for a large enterprise's web application monorepo with over 100+ modules.
+            </p>
+          </div>
+          <div class="timeline-item">
+            <div class="tl-icon">
+              <i class="fas fa-briefcase"></i>
+            </div>
+            <p class="tl-duration">2018 — 2022</p>
+            <h5>Web Developer Consultant</h5>
+            <p>
+              Provided new development and enhancements for large companies
+            </p>
+          </div>
+          <div class="timeline-item">
+            <div class="tl-icon">
+              <i class="fas fa-briefcase"></i>
+            </div>
+            <p class="tl-duration">2015 — 2018</p>
+            <h5>Student of Computer Science</h5>
+          </div>
+          <div class="timeline-item">
+            <div class="tl-icon">
+              <i class="fas fa-briefcase"></i>
+            </div>
+            <p class="tl-duration">2007 — 2012</p>
+            <h5>Student of Computer Graphics</h5>
+          </div>
+        </div>
+      </section>
+      <section class="section sec3" id="portfolio">
+        <div class="main-title">
+          <h2>My <span>Portfolio</span><span class="bg-text">💼</span></h2>
+        </div>
+        <p class="port-text">
+          View web page and/or source code for my following personal projects. 
+        </p>
+        <div class="portfolios">
+          <div class="portfolio-item">
+            <div class="image">
+              <img src="assets/project-1.jpg" alt="Forzen.io" />
+            </div>
+            <div class="hover-items">
+              <h3>Forzen.io</h3>
+              <div class="icons">
+                <a href="https://forzen.io" class="icon">
+                  <i class="fas fa-eye"></i>
+                </a>
+                <a href="https://github.com/forzen-dot-io/forzen-dot-io" class="icon">
+                  <i class="fab fa-github"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="portfolio-item">
+            <div class="image">
+              <img src="assets/project-2.jpg" alt="Digital Rain" />
+            </div>
+            <div class="hover-items">
+              <h3>Digital Rain</h3>
+              <div class="icons">
+                <a href="/digital-rain/index.html" class="icon">
+                  <i class="fas fa-eye"></i>
+                </a>
+                </a>
+                <a href="https://github.com/pjnalls/DigitalRain" class="icon">
+                  <i class="fab fa-github"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="portfolio-item">
+            <div class="image">
+              <img src="assets/project-3.jpg" alt="Forzen | pjnalls" />
+            </div>
+            <div class="hover-items">
+              <h3>Forzen | pjnalls</h3>
+              <div class="icons">
+                <a href="https://forzen.io/pjnalls/" class="icon">
+                  <i class="fas fa-eye"></i>
+                </a>
+                <a href="https://github.com/forzen-dot-io/pjnalls" class="icon">
+                  <i class="fab fa-github"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="portfolio-item">
+            <div class="image">
+              <img src="assets/project-4.jpg" alt="Forzen | Jung Cauz" />
+            </div>
+            <div class="hover-items">
+              <h3>Forzen | Jung Cauz</h3>
+              <div class="icons">
+                <a href="https://forzen.io/jung-cauz/" class="icon">
+                  <i class="fas fa-eye"></i>
+                </a>
+                <a href="https://github.com/forzen-dot-io/JungCauz" class="icon">
+                  <i class="fab fa-github"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="portfolio-item">
+            <div class="image">
+              <img src="assets/project-5.jpg" alt="Angularization Design System" />
+            </div>
+            <div class="hover-items">
+              <h3>Angularization <br/> Design System</h3>
+              <div class="icons">
+                <a href="/angularization/design-system/index.html" class="icon">
+                  <i class="fas fa-eye"></i>
+                </a>
+                </a>
+                <a href="https://github.com/pjnalls/AngularizationDesignSystem" class="icon">
+                  <i class="fab fa-github"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="portfolio-item">
+            <div class="image">
+              <img src="assets/project-6.jpg" alt="SCSS Abstract Art" />
+            </div>
+            <div class="hover-items">
+              <h3>SCSS Abstract Art</h3>
+              <div class="icons">
+                <a href="https://forzen.io/jung-cauz/art.html" class="icon">
+                  <i class="fas fa-eye"></i>
+                </a>
+                <a href="https://github.com/pjnalls/scss-abstract-shape-art" class="icon">
+                  <i class="fab fa-github"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
     </main>
-    <script src="vendor/fontawesome/all.js"></script>
-    <script src="dist/js/main.js"></script>
+
+    <div class="controls">
+      <div class="control control-1 active-btn" data-id="home">
+        <i class="fas fa-home"></i>
+      </div>
+      <div class="control control-2" data-id="about">
+        <i class="fas fa-user"></i>
+      </div>
+      <div class="control control-3" data-id="portfolio">
+        <i class="fas fa-briefcase"></i>
+      </div>
+    </div>
+
+    <div class="theme-btn">
+      <i class="fas fa-adjust"></i>
+    </div>
+
+    <script src="app.js"></script>
   </body>
 </html>

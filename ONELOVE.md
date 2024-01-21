@@ -78,7 +78,15 @@ que la paz abunde en nosotros y a nuestro alrededor.
 
 —
 
-[**"One Love" ♪ by Bob Marley**](https://www.youtube.com/watch?v=QMbvpftTEUs&list=PLYjQZOtMsA8qlIbelxPov2WtdNmcT-69-&index=1)
+<b>
+
+<a href="https://www.youtube.com/watch?v=QMbvpftTEUs&list=PLYjQZOtMsA8qlIbelxPov2WtdNmcT-69-&index=1" target="_blank" rel="noreferrer">
+"One Love" ♪ by Bob Marley
+</a>
+
+</b>
+
+<br/>
 
 🌏🌍🌎
 

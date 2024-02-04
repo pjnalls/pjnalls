@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.avif">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.avif">
-  <img src="assets/banner-light.avif" alt="Promo" style="width:auto;">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banners/banner-dark.avif">
+  <img src="assets/banners/banner-light.avif" alt="Promo" style="width:auto;">
 </picture>
 
 <br />
@@ -28,6 +28,38 @@
 🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount importance with advancements of technologies such as artificial general intelligence (AGI), metaverse-user experiences, etc.
 
 <div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
+
+<h2>
+
+<br/>
+
+**💼 My Projects**
+
+</h2>
+
+<br/>
+
+🖼️ Please feel free to click on one of the images below to navigate to one of my projects I've completed. One of the images－with the "404"－will navigate you to documentation, but the other ones are all live demos.
+
+<br />
+
+<div align="center">
+  <div align="center">
+    <a href="https://pjnalls.com/assets/works/supermaterial/"
+  target="_blank"
+  rel="noopener noreferrer"><img src="assets/works/logo.svg" width="200px" /></a>
+    <a href="https://pjnalls.com/assets/works/digirain/"
+  target="_blank"
+  rel="noopener noreferrer"><img src="assets/works/digital-rain.avif" width="200px" /></a>
+    <a href="https://github.com/pjnalls/pages-404-fix/blob/main/README.md"
+  target="_blank"
+  rel="noopener noreferrer"><img src="assets/works/_404-error-page.avif" width="200px" /></a>
+    <a href="https://pjnalls.com/assets/works/modulart-01/"
+  target="_blank"
+  rel="noopener noreferrer"><img src="assets/works/sun.avif" width="200px" /></a>
+    <br/>
+  </div>
+</div>
 
 <h2>
 

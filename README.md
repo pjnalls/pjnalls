@@ -1,17 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.avif">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banners/banner-dark.avif">
-  <img src="assets/banners/banner-light.avif" alt="Promo" style="width:auto;">
-</picture>
-
-<br />
-
 <div align="center">
 
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=48&duration=3600&pause=3600&color=999&center=true&&width=940&height=96&lines=Hi, I'm Preston 👋">
-
 
 </div>
 
@@ -21,11 +12,9 @@
 
 </h2>
 
-<br />
+👨‍💻 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps where I work and in my spare time. I mainly write code in C# and TypeScript.
 
-🎨 As a frontend engineer by day who takes language-learning seriously, I spend most of my free time learning all kinds of natural languages—in addition to programming languages such as TypeScript and Sass I use just about everyday.<br />
-<br />
-🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount importance with advancements of technologies such as artificial general intelligence (AGI), metaverse-user experiences, etc.
+🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount with advancements in technologies such as artificial general intelligence (AGI), metaverse-user experiences, etc.
 
 <div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
 
@@ -39,22 +28,22 @@
 
 <br/>
 
-🖼️ Please feel free to click on one of the images below to navigate to one of my projects I've completed. One of the images－with the "404"－will navigate you to documentation, but the other ones are all live demos.
+🖼️ Click an image below to view one of my live projects.
 
 <br />
 
 <div align="center">
   <div align="center">
-    <a href="https://pjnalls.com/assets/works/supermaterial/"
+    <a href="https://pjnalls.github.io/assets/works/supermaterial/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/logo.svg" width="200px" /></a>
-    <a href="https://pjnalls.com/assets/works/digirain/"
+    <a href="https://pjnalls.github.io/assets/works/digirain/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/digital-rain.avif" width="200px" /></a>
-    <a href="https://github.com/pjnalls/pages-404-fix/blob/main/README.md"
+    <a href="https://pjnalls.github.io/assets/works/global-bmi/"
   target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/_404-error-page.avif" width="200px" /></a>
-    <a href="https://pjnalls.com/assets/works/modulart-01/"
+  rel="noopener noreferrer"><img src="assets/works/bmi.avif" width="200px" /></a>
+    <a href="https://pjnalls.github.io/assets/works/modulart-01/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/sun.avif" width="200px" /></a>
     <br/>
@@ -89,11 +78,27 @@
 ![RxJS Badge](https://img.shields.io/badge/rxjs-610425?style=for-the-badge&logo=reactivex&logoColor=e10988)
 ![Git Badge](https://img.shields.io/badge/git-4f1c00?style=for-the-badge&logo=git&logoColor=E44C30) ![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f) ![Swagger UI](https://img.shields.io/badge/swagger_ui-274200?style=for-the-badge&logo=swagger&logoColor=c7f200) ![Node.js Badge](https://img.shields.io/badge/node.js-2C3e18?style=for-the-badge&logo=node.js&logoColor=bCfeb8)
 ![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-183945?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Redux / NgRx Badge](https://img.shields.io/badge/redux_/_ngrx-213A5b?style=for-the-badge&logo=redux&logoColor=61dafb) ![React Native Badge](https://img.shields.io/badge/react_native-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) ![Photoshop Badge](https://img.shields.io/badge/photoshop-1c3960?style=for-the-badge&logo=adobephotoshop&logoColor=2da9ff) ![Mantine Badge](https://img.shields.io/badge/mantine-13356f?style=for-the-badge&logo=mantine&logoColor=#339bf0)
+![Redux / NgRx Badge](https://img.shields.io/badge/redux_/_ngrx-213A5b?style=for-the-badge&logo=redux&logoColor=61dafb) ![React Native Badge](https://img.shields.io/badge/react_native-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) ![Photoshop Badge](https://img.shields.io/badge/photoshop-1c3960?style=for-the-badge&logo=adobephotoshop&logoColor=2da9ff) ![Mantine Badge](https://img.shields.io/badge/mantine-13356f?style=for-the-badge&logo=mantine&logoColor=339bf0)
+![Vite Badge](https://img.shields.io/badge/vite-282080?style=for-the-badge&logo=vite&logoColor=a355fe)
 
 ![Markdown Badge](https://img.shields.io/badge/markdown-40434a?style=for-the-badge&logo=markdown&logoColor=fff) ![Figma Badge](https://img.shields.io/badge/figma-40434a?style=for-the-badge&logo=figma&logoColor=fff)
 
-<br />
+<h3 align="center">
+🔤 Natural Languages 
+<br/>(Greatest-to-Least Proficiencies) 
+</h3>
+<div align="center">
+
+![English Badge](https://img.shields.io/badge/🇺🇸_English-a00f28?style=for-the-badge)
+![Japanese Badge](https://img.shields.io/badge/🇯🇵_Japanese-801848?style=for-the-badge)
+![Mandarin (Simplified) Badge](<https://img.shields.io/badge/🇨🇳_Mandarin_(Simplified)-601f68?style=for-the-badge>)<br/>
+![Mandarin (Traditional) Badge](<https://img.shields.io/badge/🇹🇼_Mandarin_(Traditional)-601f68?style=for-the-badge>)
+![Spanish Badge](https://img.shields.io/badge/🇪🇸_Spanish-402888?style=for-the-badge)
+![Korean Badge](https://img.shields.io/badge/🇰🇷_Korean-402888?style=for-the-badge)
+
+</div>
+
+<br/>
 
 ---
 

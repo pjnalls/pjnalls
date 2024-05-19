@@ -13,7 +13,7 @@
 </h2>
 
 👨‍💻 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps and services where I work and do extended amounts of yoga in my spare time.<br/>
-I primarily write code in either C# and TypeScript, currently learning Python, and can read in multiple natural languages.
+I primarily write code in C# and TypeScript, currently learning Python, and can read in multiple natural languages.
 
 🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount with advancements in technologies such as artificial general intelligence (AGI), metaverse-user experiences, etc.
 
@@ -29,22 +29,22 @@ I primarily write code in either C# and TypeScript, currently learning Python, a
 
 <br/>
 
-🖼️ Click an image below to view one of my live projects.
+🖼️ Click an image below to view the code for one of my live projects.
 
 <br />
 
 <div align="center">
   <div align="center">
-    <a href="https://pjnalls.github.io/assets/works/supermaterial/"
+    <a href="https://github.com/pjnalls/Supermaterial/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/logo.svg" width="200px" /></a>
-    <a href="https://pjnalls.github.io/assets/works/digirain/"
+    <a href="https://github.com/pjnalls/DigitalRain/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/digital-rain.avif" width="200px" /></a>
-    <a href="https://pjnalls.github.io/assets/works/tsa/"
+    <a href="https://github.com/pjnalls/time_series_analysis_and_forecast/"
   target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/bmi.avif" width="200px" /></a>
-    <a href="https://pjnalls.github.io/assets/works/modulart-01/"
+  rel="noopener noreferrer"><img src="assets/works/tsa.avif" width="200px" /></a>
+    <a href="https://github.com/pjnalls/modulart-01/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/sun.avif" width="200px" /></a>
     <br/>
@@ -94,12 +94,12 @@ I primarily write code in either C# and TypeScript, currently learning Python, a
 </h3>
 <div align="center">
 
-![English Badge](https://img.shields.io/badge/🇺🇸_English-a00f28?style=for-the-badge)
-![Japanese Badge](https://img.shields.io/badge/🇯🇵_Japanese-801848?style=for-the-badge)
-![Mandarin (Traditional) Badge](<https://img.shields.io/badge/🇹🇼_Mandarin_(Traditional)-701f58?style=for-the-badge>)
-![Mandarin (Simplified) Badge](<https://img.shields.io/badge/🇨🇳_Mandarin_(Simplified)-501f58?style=for-the-badge>)<br/>
-![Spanish Badge](https://img.shields.io/badge/🇪🇸_Spanish-402888?style=for-the-badge)
-![Korean Badge](https://img.shields.io/badge/🇰🇷_Korean-204890?style=for-the-badge)
+![English Badge](https://img.shields.io/badge/English-a00f28?style=for-the-badge)
+![Japanese Badge](https://img.shields.io/badge/Japanese-801848?style=for-the-badge)
+![Mandarin (Traditional) Badge](<https://img.shields.io/badge/Mandarin_(Traditional)-701f58?style=for-the-badge>)
+![Mandarin (Simplified) Badge](<https://img.shields.io/badge/Mandarin_(Simplified)-501f58?style=for-the-badge>)<br/>
+![Spanish Badge](https://img.shields.io/badge/Spanish-402888?style=for-the-badge)
+![Korean Badge](https://img.shields.io/badge/Korean-204890?style=for-the-badge)
 
 </div>
 

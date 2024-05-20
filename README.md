@@ -59,6 +59,14 @@ I primarily write code in C# and TypeScript, currently learning Python, and can 
 
 </h2>
 
+<div align="center">
+  <img src="assets/logos/React.png" width="180px" />
+  <img src="assets/logos/TypeScript.png" width="180px" />
+  <img src="assets/logos/Tailwindcss.png" width="180px" />
+  <img src="assets/logos/Node.js.png" width="180px" />
+  <p><a href="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/README_EN.md">KawaiiLogos</a> shown above were made by <a href="https://github.com/SAWARATSUKI">SAWARATSUKI</a>.</p>
+</div>
+
 <br />
 
 <h3 align="center">

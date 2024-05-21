@@ -154,7 +154,7 @@ Markdown + Hexadecimal Color Codes + HTML + Piskel and ❤️
 
 <a href="https://github.com/pjnalls/pjnalls/blob/main/ONELOVE.md"
   target="_blank"
-  rel="noopener noreferrer">#onelove</a>
+  rel="noopener noreferrer">#OneLove</a>
 🌏🌍🌎
 
 </h3>

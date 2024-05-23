@@ -17,7 +17,7 @@
 👨‍💻 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps and services where I work and do extended amounts of yoga in my spare time.<br/>
 I primarily write code in C# and TypeScript, currently learning Python, and can read in multiple natural languages.
 
-🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount with advancements in technologies such as artificial general intelligence (AGI), metaverse-user experiences, etc.
+🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount importance with advancements in technologies such as artificial general intelligence (AGI) and metaverse-user experiences.
 
 <div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
 

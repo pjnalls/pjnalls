@@ -14,10 +14,10 @@
 
 </h2>
 
-👨‍💻 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps and services where I work and do extended amounts of yoga in my spare time.<br/>
-I primarily write code in C# and TypeScript, currently learning Python, and can read in multiple natural languages.
+👷 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps and services where I work, and I like listening to a lot of video game music, watching video game speedruns, and being in yoga in my free time.<br/>
+I primarily write code in TypeScript and C#, am currently sharpening my React Native skills, and can read in multiple natural languages.
 
-🧬 Hopefully through my work, I can inspire others to make their work "human-centered"—as human-computer interaction (HCI) becomes of paramount importance with advancements in technologies such as artificial general intelligence (AGI) and metaverse-user experiences.
+🦄 I consider myself to be a bit of a unicorn in the sense that I'm currently a fullstack web and mobile developer where I work yet I have a background in art and design: I grew up with a passion for drawing, anime, and games. Later, I graduated from a university earning a Bachelor of Science degree with a concentration in 2D and 3D animation and then, later on, earning an additional Bachelor of Science degree in computer science.
 
 <div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
 
@@ -42,34 +42,35 @@ I primarily write code in C# and TypeScript, currently learning Python, and can 
 </h3>
 <div align="center">
 
-
-![Sass (SCSS) Badge](<https://img.shields.io/badge/sass_(scss)-582745?style=for-the-badge&logo=sass&logoColor=ee87ba>)
-![TypeScript Badge](https://img.shields.io/badge/typeScript-203f58?style=for-the-badge&logo=typescript&logoColor=209aec)
-![C# Badge](https://img.shields.io/badge/c--sharp-473065?style=for-the-badge&logo=cSharp&logoColor=9780e5)
+![Sass (SCSS) Badge](https://img.shields.io/badge/Sass_(SCSS)-582745?&logo=sass&logoColor=ee87ba)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-203f58?logo=typescript&logoColor=209aec)
+![C# Badge](https://img.shields.io/badge/C--Sharp-473065?logo=cSharp&logoColor=9780e5)
 
 </div>
 
 <h3 align="center">
-🖼️ UI/UX and Frontend Toolkit
+🛠️ Fullstack and UI/UX Toolkit
 </h3>
 <div align="center">
 
-![RxJS Badge](https://img.shields.io/badge/rxjs-610425?style=for-the-badge&logo=reactivex&logoColor=e10988)
-![Angular Badge](https://img.shields.io/badge/angular-600012?style=for-the-badge&logo=angular&logoColor=dd0032)
-![Git Badge](https://img.shields.io/badge/git-4f1c00?style=for-the-badge&logo=git&logoColor=E44C30) ![ES6+ JavaScript Badge](https://img.shields.io/badge/es6+_javascript-583f20?style=for-the-badge&logo=javascript&logoColor=f0db4f) 
-![Swagger UI](https://img.shields.io/badge/swagger_ui-274200?style=for-the-badge&logo=swagger&logoColor=c7f200) 
-![Node.js Badge](https://img.shields.io/badge/node.js-2C3e18?style=for-the-badge&logo=node.js&logoColor=bCfeb8)
-![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-183945?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Redux Badge](https://img.shields.io/badge/redux-213A5b?style=for-the-badge&logo=redux&logoColor=61dafb) 
-![React Badge](https://img.shields.io/badge/react-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) 
-![React Native Badge](https://img.shields.io/badge/react_native-213A5b?style=for-the-badge&logo=react&logoColor=61dafb) 
-![Photoshop Badge](https://img.shields.io/badge/photoshop-1c3960?style=for-the-badge&logo=adobephotoshop&logoColor=2da9ff) 
-![Mantine Badge](https://img.shields.io/badge/mantine-13356f?style=for-the-badge&logo=mantine&logoColor=339bf0)
-![Vite Badge](https://img.shields.io/badge/vite-282080?style=for-the-badge&logo=vite&logoColor=a355fe)
-![.NET Badge](https://img.shields.io/badge/.net-372065?style=for-the-badge&logo=dotnet&logoColor=9780e5)
+![Storybook Badge](https://img.shields.io/badge/Storybook-6f173f?logo=storybook&logoColor=ff4785)
+![RxJS Badge](https://img.shields.io/badge/RxJS-610425?logo=reactivex&logoColor=e10988)
+![Angular Badge](https://img.shields.io/badge/Angular-600012?logo=angular&logoColor=dd0032)
+![Git Badge](https://img.shields.io/badge/Git-4f1c00?logo=git&logoColor=E44C30) ![ES6+ JavaScript Badge](https://img.shields.io/badge/ES6+_JavaScript-583f20?logo=javascript&logoColor=f0db4f) 
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-274200?logo=swagger&logoColor=c7f200) 
+![Node.js Badge](https://img.shields.io/badge/Node.js-2C3e18?logo=node.js&logoColor=bCfeb8)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-183945?logo=tailwindcss&logoColor=38bdf8)
+![Redux Badge](https://img.shields.io/badge/Redux-213A5b?logo=redux&logoColor=61dafb) 
+![React Badge](https://img.shields.io/badge/React-213A5b?logo=react&logoColor=61dafb) 
+![React Native Badge](https://img.shields.io/badge/React_Native-213A5b?logo=react&logoColor=61dafb) 
+![Photoshop Badge](https://img.shields.io/badge/Photoshop-1c3960?logo=adobephotoshop&logoColor=2da9ff) 
+![Mantine Badge](https://img.shields.io/badge/Mantine-13356f?logo=mantine&logoColor=339bf0)
+![Vite Badge](https://img.shields.io/badge/Vite-282080?logo=vite&logoColor=a355fe)
+![.NET Badge](https://img.shields.io/badge/.NET-372065?logo=dotnet&logoColor=9780e5)
 
-![Markdown Badge](https://img.shields.io/badge/markdown-40434a?style=for-the-badge&logo=markdown&logoColor=fff) 
-![Figma Badge](https://img.shields.io/badge/figma-40434a?style=for-the-badge&logo=figma&logoColor=fff)
+![Markdown Badge](https://img.shields.io/badge/Markdown-40434a?logo=markdown&logoColor=fff) 
+![Figma Badge](https://img.shields.io/badge/Figma-40434a?logo=figma&logoColor=fff)
+![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft_SQL_Server-40434a?logo=microsoftsqlserver&logoColor=fff)
 
 <h3 align="center">
 🔤 Natural Languages 
@@ -77,12 +78,12 @@ I primarily write code in C# and TypeScript, currently learning Python, and can 
 </h3>
 <div align="center">
 
-![English Badge](https://img.shields.io/badge/English-a00f28?style=for-the-badge)
-![Japanese Badge](https://img.shields.io/badge/Japanese-801848?style=for-the-badge)
-![Mandarin (Traditional) Badge](<https://img.shields.io/badge/Mandarin_(Traditional)-701f58?style=for-the-badge>)
-![Mandarin (Simplified) Badge](<https://img.shields.io/badge/Mandarin_(Simplified)-501f58?style=for-the-badge>)<br/>
-![Spanish Badge](https://img.shields.io/badge/Spanish-402888?style=for-the-badge)
-![Korean Badge](https://img.shields.io/badge/Korean-204890?style=for-the-badge)
+![English Badge](https://img.shields.io/badge/English-a00f28)
+![Japanese Badge](https://img.shields.io/badge/Japanese-801848)
+![Mandarin (Traditional) Badge](https://img.shields.io/badge/Mandarin_(Traditional)-701f58)
+![Mandarin (Simplified) Badge](https://img.shields.io/badge/Mandarin_(Simplified)-501f58)<br/>
+![Spanish Badge](https://img.shields.io/badge/Spanish-402888)
+![Korean Badge](https://img.shields.io/badge/Korean-204890)
 
 </div>
 

@@ -128,7 +128,7 @@ I primarily write code in TypeScript and C#, am currently sharpening my React Na
     <a href="https://github.com/pjnalls/time_series_analysis_and_forecast/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/tsa.avif" width="200px" /></a>
-    <a href="https://github.com/pjnalls/modulart-01/"
+    <a href="https://github.com/pjnalls/itunes/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/sun.avif" width="200px" /></a>
     <br/>

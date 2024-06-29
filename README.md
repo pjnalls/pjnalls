@@ -2,7 +2,12 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=48&duration=3600&pause=3600&color=999&center=true&&width=940&height=96&lines=Hi, I'm Preston 👋" alt="Greeting">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=48&duration=3600&pause=1000&color=faf&background=160020&center=true&vCenter=true&random=false&width=940&height=96&lines=Hi, I'm Preston 👋;I'm a React Native Developer ⚛️">
+  </a>
+</p>
+
 
 </div>
 
@@ -49,7 +54,7 @@ I primarily write code in TypeScript, am currently sharpening my React Native sk
 </div>
 
 <h3 align="center">
-🛠️ Fronted and UI/UX Toolkit
+🛠️ Frontend Development and UI/UX Design Toolkit
 </h3>
 <div align="center">
 
@@ -117,6 +122,9 @@ I primarily write code in TypeScript, am currently sharpening my React Native sk
 
 <div align="center">
   <div align="center">
+    <a href="https://github.com/pjnalls/itunes/"
+  target="_blank"
+  rel="noopener noreferrer"><img src="assets/works/itunes.avif" width="200px" /></a>
     <a href="https://github.com/pjnalls/Supermaterial/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/logo.svg" width="200px" /></a>
@@ -126,9 +134,6 @@ I primarily write code in TypeScript, am currently sharpening my React Native sk
     <a href="https://github.com/pjnalls/time_series_analysis_and_forecast/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/tsa.avif" width="200px" /></a>
-    <a href="https://github.com/pjnalls/itunes/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/sun.avif" width="200px" /></a>
     <br/>
   </div>
 </div>

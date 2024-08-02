@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=48&duration=3600&pause=3600&color=999&center=true&&width=940&height=96&lines=Hi, I'm Preston 👋" alt="Greeting">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=48&duration=3600&pause=3600&color=999&center=true&&width=940&height=96&lines=Hi, I'm Preston 👋" alt="Greeting">
 
 </div>
 
@@ -14,8 +14,8 @@
 
 </h2>
 
-👷 I create, enhance, and maintain React, Angular, .NET, and React Native web and mobile apps and services where I work, and I like listening to a lot of video game music, watching video game speedruns, and being in yoga in my free time.<br/>
-I primarily write code in TypeScript and C#, am currently sharpening my React Native skills, and can read in multiple natural languages.
+👷 I create, enhance, and maintain React, Angular, and React Native web and mobile apps where I work, and I like listening to a lot of video game music, watching video game speedruns, and being in yoga in my free time.<br/>
+I primarily write code in TypeScript, am currently sharpening my React Native skills, and can read in multiple natural languages.
 
 🦄 I consider myself to be a bit of a unicorn in the sense that I'm currently a fullstack web and mobile developer where I work yet I have a background in art and design: I grew up with a passion for drawing, anime, and games. Later, I graduated from a university earning a Bachelor of Science degree with a concentration in 2D and 3D animation and then, later on, earning an additional Bachelor of Science degree in computer science.
 
@@ -28,10 +28,11 @@ I primarily write code in TypeScript and C#, am currently sharpening my React Na
 </h2>
 
 <div align="center">
-  <img src="assets/logos/React.png" width="180px" alt="KawiiLogo 1" />
-  <img src="assets/logos/TypeScript.png" width="180px" alt="KawiiLogo 2" />
-  <img src="assets/logos/Tailwindcss.png" width="180px" alt="KawiiLogo 3" />
-  <img src="assets/logos/Node.js.png" width="180px" alt="KawiiLogo 4" />
+  <img src="assets/logos/React.png" width="144px" alt="KawaiiLogo 1" />
+  <img src="assets/logos/TypeScript.png" width="144px" alt="KawaiiLogo 2" />
+  <img src="assets/logos/Tailwindcss.png" width="144px" alt="KawaiiLogo 3" />
+  <img src="assets/logos/Node.js.png" width="144px" alt="KawaiiLogo 4" />
+  <img src="assets/logos/Figma.png" width="144px" alt="KawaiiLogo 4" />
   <p><a href="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/README_EN.md">KawaiiLogos</a> shown above were made by <a href="https://github.com/SAWARATSUKI">SAWARATSUKI</a>.</p>
 </div>
 
@@ -44,12 +45,11 @@ I primarily write code in TypeScript and C#, am currently sharpening my React Na
 
 ![Sass (SCSS) Badge](https://img.shields.io/badge/Sass_(SCSS)-582745?&logo=sass&logoColor=ee87ba)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-203f58?logo=typescript&logoColor=209aec)
-![C# Badge](https://img.shields.io/badge/C--Sharp-473065?logo=cSharp&logoColor=9780e5)
 
 </div>
 
 <h3 align="center">
-🛠️ Fullstack and UI/UX Toolkit
+🛠️ Fronted and UI/UX Toolkit
 </h3>
 <div align="center">
 
@@ -66,11 +66,9 @@ I primarily write code in TypeScript and C#, am currently sharpening my React Na
 ![Photoshop Badge](https://img.shields.io/badge/Photoshop-1c3960?logo=adobephotoshop&logoColor=2da9ff) 
 ![Mantine Badge](https://img.shields.io/badge/Mantine-13356f?logo=mantine&logoColor=339bf0)
 ![Vite Badge](https://img.shields.io/badge/Vite-282080?logo=vite&logoColor=a355fe)
-![.NET Badge](https://img.shields.io/badge/.NET-372065?logo=dotnet&logoColor=9780e5)
 
 ![Markdown Badge](https://img.shields.io/badge/Markdown-40434a?logo=markdown&logoColor=fff) 
 ![Figma Badge](https://img.shields.io/badge/Figma-40434a?logo=figma&logoColor=fff)
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft_SQL_Server-40434a?logo=microsoftsqlserver&logoColor=fff)
 
 <h3 align="center">
 🔤 Natural Languages 
@@ -150,14 +148,6 @@ I primarily write code in TypeScript and C#, am currently sharpening my React Na
 
 <h3>
 Markdown + Hexadecimal Color Codes + HTML + Piskel and ❤️
-
-<br />
-
-<a href="https://github.com/pjnalls/pjnalls/blob/main/ONELOVE.md"
-  target="_blank"
-  rel="noopener noreferrer">#OneLove</a>
-🌏🌍🌎
-
 </h3>
 
 <br />

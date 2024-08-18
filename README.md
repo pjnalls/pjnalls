@@ -14,7 +14,7 @@
 
 </h2>
 
-👷 I create, enhance, and maintain React, Angular, and React Native web and mobile apps where I work, and I like listening to a lot of video game music, watching video game speedruns, and being in yoga in my free time.<br/>
+👷 I create, enhance, and maintain React, React Native, and TypeScript web and mobile apps where I work, and I like listening to a lot of different music, watching YouTube videos, and doing yoga in my free time.<br/>
 I primarily write code in TypeScript, am currently sharpening my React Native skills, and can read in multiple natural languages.
 
 🦄 I consider myself to be a bit of a unicorn in the sense that I'm currently a fullstack web and mobile developer where I work yet I have a background in art and design: I grew up with a passion for drawing, anime, and games. Later, I graduated from a university earning a Bachelor of Science degree with a concentration in 2D and 3D animation and then, later on, earning an additional Bachelor of Science degree in computer science.
@@ -117,6 +117,9 @@ I primarily write code in TypeScript, am currently sharpening my React Native sk
 
 <div align="center">
   <div align="center">
+    <a href="https://github.com/pjnalls/itunes/"
+  target="_blank"
+  rel="noopener noreferrer"><img src="assets/works/itunes.avif" width="200px" /></a>
     <a href="https://github.com/pjnalls/Supermaterial/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/logo.svg" width="200px" /></a>
@@ -126,9 +129,6 @@ I primarily write code in TypeScript, am currently sharpening my React Native sk
     <a href="https://github.com/pjnalls/time_series_analysis_and_forecast/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/tsa.avif" width="200px" /></a>
-    <a href="https://github.com/pjnalls/itunes/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/sun.avif" width="200px" /></a>
     <br/>
   </div>
 </div>

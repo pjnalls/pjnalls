@@ -16,6 +16,8 @@
 
 👷 I have 7+ years of frontend software development experience and am currently only accepting contracts for React Native and React development and will continue to do so as I transition at this time as a doctoral candidate applicant.
 
+🦄 I consider myself a quite the unicorn as I'm interested to great depths in all aspect of STEAM (science, technology, engineering, art, and mathematics) such as currently and actively seeking to improve my frontend mobile and web software development expertise in React Native, understanding of quantum computers and neural networks, and my second language Japanese and third language Mandarin.
+
 <div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
 
 <h2>
@@ -74,9 +76,9 @@
 <div align="center">
 
 ![English Badge](https://img.shields.io/badge/English-a00f28)
-![Japanese Badge](https://img.shields.io/badge/Japanese-801848)
-![Mandarin (Traditional) Badge](<https://img.shields.io/badge/Mandarin_(Traditional)-701f58>)
-![Mandarin (Simplified) Badge](<https://img.shields.io/badge/Mandarin_(Simplified)-501f58>)<br/>
+![Mandarin (Traditional) Badge](https://img.shields.io/badge/Mandarin_(Traditional)-801f48)
+![Japanese Badge](https://img.shields.io/badge/Japanese-701858)
+![Mandarin (Simplified) Badge](https://img.shields.io/badge/Mandarin_(Simplified)-501f58)<br/>
 ![Spanish Badge](https://img.shields.io/badge/Spanish-402888)
 ![Korean Badge](https://img.shields.io/badge/Korean-204890)
 

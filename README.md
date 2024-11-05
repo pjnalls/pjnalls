@@ -14,7 +14,27 @@
 
 </h2>
 
-👷 I have 7+ years of frontend software development experience and am currently only accepting contracts for React Native and React development and will continue to do so as I transition at this time as a doctoral candidate applicant.
+👷 I have 7+ years of frontend software development experience and am
+currently only accepting contracts for React Native but am open to a
+postgraduate degree program.
+
+☯️ I'm interested to great depths in all aspects of STEAM (science,
+technology, engineering, art, and mathematics).<br/>
+Moreover, I consider art in it's both simultaneously novel and useful
+forms to be the quantum mechanical medium fundamental to the rigorous
+study of nature and the creative process for the greatest discoveries
+of the universe.
+
+🧬 In a more practical sense related to STEAM, I'm currently and actively
+seeking opportunities to study quantum physics (for science), taking
+the time to understand quantum computers and machine learning (for
+technology), improving my frontend mobile and web software development
+expertise in React Native (for engineering), finding articulate expression
+via my second language Japanese and third language Mandarin (for art),
+and solving quantum-logical problems with classic logical states on
+three-dimensional planes (for mathematics).
+<br />
+<br />
 
 <div align="center"><img  src="assets/hr.gif" alt="animated horizontal rule" /></div>
 
@@ -74,8 +94,8 @@
 <div align="center">
 
 ![English Badge](https://img.shields.io/badge/English-a00f28)
-![Japanese Badge](https://img.shields.io/badge/Japanese-801848)
-![Mandarin (Traditional) Badge](<https://img.shields.io/badge/Mandarin_(Traditional)-701f58>)
+![Mandarin (Traditional) Badge](<https://img.shields.io/badge/Mandarin_(Traditional)-801f48>)
+![Japanese Badge](https://img.shields.io/badge/Japanese-701858)
 ![Mandarin (Simplified) Badge](<https://img.shields.io/badge/Mandarin_(Simplified)-501f58>)<br/>
 ![Spanish Badge](https://img.shields.io/badge/Spanish-402888)
 ![Korean Badge](https://img.shields.io/badge/Korean-204890)

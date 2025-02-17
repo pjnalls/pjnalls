@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="assets/banner.avif" alt="Personal Brand">
+<img src="assets/ai-banner.avif" alt="Personal Brand">
 
 </div>
 
@@ -12,15 +12,17 @@
 
 </h2>
 
-I have 7+ years of frontend software development experience and am currently building cross-platform Expo apps in React Native and TypeScript for iOS, Android, and the Web.
-<br/>
-Some other JavaScript libraries I use for my projects are Tailwind CSS and NativeWind for inline styling.
+I'm a software engineer with 7+ years of experience. I currently work as a Preply-certified professional tutor and am studying AI engineering. 
 
-Along with frontend web and mobile development expertise, I can use Figma to create most of my designs and assets for my projects.
 
-I'm currently seeking new React Native job opportunities in the Nashville Metropolitan Area either hybrid or onsite or opportunities which are remote as well.
+My DataCamp profile is available here:
+https://www.datacamp.com/portfolio/pjnalls/
 
-Please direct message on <a href="https://www.linkedin.com/in/pjnalls/">LinkedIn</a> if you're a recruiter and would like to discuss further.
+My GitHub profile is available here:
+https://github.com/pjnalls/
+
+My Preply profile is available here: 
+https://preply.com/en/tutor/5752877/.
 <br />
 <br />
 
@@ -49,13 +51,15 @@ Please direct message on <a href="https://www.linkedin.com/in/pjnalls/">LinkedIn
 </div>
 
 <h3 align="center">
-🛠️ Frontend and UI/UX Toolkit
+🛠️ Software Engineering Toolkit
 </h3>
 <div align="center">
 
 ![Git Badge](https://img.shields.io/badge/Git-4f1c00?logo=git&logoColor=E44C30) 
-![ES6+ JavaScript Badge](https://img.shields.io/badge/ES6+_JavaScript-583f20?logo=javascript&logoColor=f0db4f)
+![Python](https://img.shields.io/badge/Python-5f3f20?logo=python&logoColor=ffd343)
+![ES6+ JavaScript Badge](https://img.shields.io/badge/ES6+_JavaScript-583f20?logo=javascript&logoColor=f0e04f)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-2C3e18?logo=node.js&logoColor=bCfeb8)
+![Bash](https://img.shields.io/badge/Shell-293137?&logo=gnu-bash&logoColor=4EAA25)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-183945?logo=tailwindcss&logoColor=38bdf8)
 ![Redux Badge](https://img.shields.io/badge/Redux-213A5b?logo=redux&logoColor=61dafb)
 ![React Badge](https://img.shields.io/badge/React-213A5b?logo=react&logoColor=61dafb)

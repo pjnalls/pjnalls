@@ -12,19 +12,7 @@
 
 </h2>
 
-I'm a software engineer with 7+ years of experience. I currently work as a Preply-certified professional tutor and am studying AI engineering. 
-
-
-My DataCamp profile is available here:
-https://www.datacamp.com/portfolio/pjnalls/
-
-My GitHub profile is available here:
-https://github.com/pjnalls/
-
-My Preply profile is available here: 
-https://preply.com/en/tutor/5752877/.
-<br />
-<br />
+### I'm a software engineer with 7+ years of experience. I currently work as a Preply-certified professional.
 
 <h2>
 
@@ -55,8 +43,7 @@ https://preply.com/en/tutor/5752877/.
 </h3>
 <div align="center">
 
-![Git Badge](https://img.shields.io/badge/Git-4f1c00?logo=git&logoColor=E44C30) 
-![Python](https://img.shields.io/badge/Python-5f3f20?logo=python&logoColor=ffd343)
+![Git Badge](https://img.shields.io/badge/Git-4f1c00?logo=git&logoColor=E44C30)
 ![ES6+ JavaScript Badge](https://img.shields.io/badge/ES6+_JavaScript-583f20?logo=javascript&logoColor=f0e04f)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-2C3e18?logo=node.js&logoColor=bCfeb8)
 ![Bash](https://img.shields.io/badge/Shell-293137?&logo=gnu-bash&logoColor=4EAA25)

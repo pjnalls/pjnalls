@@ -12,19 +12,7 @@
 
 </h2>
 
-I'm a software engineer with 7+ years of experience. I currently work as a Preply-certified professional tutor and am studying AI engineering. 
-
-
-My DataCamp profile is available here:
-https://www.datacamp.com/portfolio/pjnalls/
-
-My GitHub profile is available here:
-https://github.com/pjnalls/
-
-My Preply profile is available here: 
-https://preply.com/en/tutor/5752877/.
-<br />
-<br />
+### I'm a software engineer with 7+ years of experience. I currently work as a Preply-certified professional tutor.
 
 <h2>
 
@@ -47,6 +35,7 @@ https://preply.com/en/tutor/5752877/.
 <div align="center">
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-203f58?logo=typescript&logoColor=209aec)
+![C Badge](https://img.shields.io/badge/C_Programming_Language-19295c?logo=c&logoColor=0079cc)
 
 </div>
 
@@ -55,8 +44,7 @@ https://preply.com/en/tutor/5752877/.
 </h3>
 <div align="center">
 
-![Git Badge](https://img.shields.io/badge/Git-4f1c00?logo=git&logoColor=E44C30) 
-![Python](https://img.shields.io/badge/Python-5f3f20?logo=python&logoColor=ffd343)
+![Git Badge](https://img.shields.io/badge/Git-4f1c00?logo=git&logoColor=E44C30)
 ![ES6+ JavaScript Badge](https://img.shields.io/badge/ES6+_JavaScript-583f20?logo=javascript&logoColor=f0e04f)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-2C3e18?logo=node.js&logoColor=bCfeb8)
 ![Bash](https://img.shields.io/badge/Shell-293137?&logo=gnu-bash&logoColor=4EAA25)
@@ -93,7 +81,7 @@ https://preply.com/en/tutor/5752877/.
 </h3>
 <div align="center">
 
-[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,3f203f,160020&text_color=ffffff&hide_border=true&hide=css,html,javascript)](https://github.com/pjnalls)
+[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,00301a,002010&text_color=ffffff&hide_border=true&hide=jupyter%20notebook)](https://github.com/pjnalls)
 
 </div>
 
@@ -117,12 +105,6 @@ https://preply.com/en/tutor/5752877/.
     <a href="https://github.com/pjnalls/ai-less-youtube/"
   target="_blank"
   rel="noopener noreferrer"><img src="assets/works/yt.avif" width="200px" /></a>
-    <a href="https://github.com/pjnalls/Supermaterial/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/logo.svg" width="200px" /></a>
-    <a href="https://github.com/pjnalls/DigitalRain/"
-  target="_blank"
-  rel="noopener noreferrer"><img src="assets/works/digital-rain.avif" width="200px" /></a>
     <br/>
   </div>
 </div>

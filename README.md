@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="assets/ai-banner.avif" alt="Personal Brand">
+<img src="assets/rn-banner.avif" alt="Personal Brand">
 
 </div>
 
@@ -12,7 +12,7 @@
 
 </h2>
 
-### I'm a software engineer with 7+ years of experience. I currently work as a Preply-certified professional tutor.
+### I'm a React Native engineer with 7+ years of experience. I currently work as a Preply-certified professional tutor.
 
 <h2>
 
@@ -35,7 +35,6 @@
 <div align="center">
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-203f58?logo=typescript&logoColor=209aec)
-![C Badge](https://img.shields.io/badge/C_Programming_Language-19295c?logo=c&logoColor=0079cc)
 
 </div>
 

@@ -12,7 +12,14 @@
 
 </h2>
 
-### I'm a React Native engineer with 7+ years of experience. I currently work as a Preply-certified professional tutor.
+I have 7+ years of frontend web and mobile application development experience and am currently building cross-platform Expo apps in React Native and TypeScript for iOS, Android, and the Web.
+Some other JavaScript libraries I use for my projects are Tailwind CSS and NativeWind for inline styling.
+
+Along with frontend development expertise, I can use Figma to create most of my designs and assets for my projects.
+
+I'm currently seeking new React Native job opportunities in the Nashville Metropolitan Area either hybrid or onsite or opportunities that are remote as well.
+
+Please send a direct message on [LinkedIn](https://www.linkedin.com/in/pjnalls/) if you're a recruiter and would like to discuss further.
 
 <h2>
 

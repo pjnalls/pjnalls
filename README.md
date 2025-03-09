@@ -125,7 +125,7 @@ Markdown + HTML + Hexadecimal Color Codes and ❤️
 
 <br />
 
-Copyright © 2023, 2024 Preston Nalls
+Copyright © 2023, 2024, 2025 Preston Nalls
 
 </footer>
 </span>

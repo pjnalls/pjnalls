@@ -124,6 +124,8 @@ Please send a direct message on [LinkedIn](https://www.linkedin.com/in/pjnalls/)
 
 <span>
 
+<h3>❤️ <a href="/ONELOVE.md">#ONELOVE</a> 🌏🌍🌎</h3>
+
 <i>made with</i>
 
 <h3>

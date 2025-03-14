@@ -87,7 +87,7 @@ Please send a direct message on [LinkedIn](https://www.linkedin.com/in/pjnalls/)
 </h3>
 <div align="center">
 
-[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,00301a,002010&text_color=ffffff&hide_border=true&hide=jupyter%20notebook)](https://github.com/pjnalls)
+[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,1d2a50,091930&text_color=ffffff&hide_border=true&hide=jupyter%20notebook)](https://github.com/pjnalls)
 
 </div>
 

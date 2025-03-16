@@ -12,14 +12,14 @@
 
 </h2>
 
-I have 7+ years of frontend web and mobile application development experience and am currently building cross-platform Expo apps in React Native and TypeScript for iOS, Android, and the Web.
-Some other JavaScript libraries I use for my projects are Tailwind CSS and NativeWind for inline styling.
+My journey is one of connection – connecting people through technology, through language, and a shared vision of a more compassionate world. My passion, encapsulated in the #ONELOVE ethos, drives me to build technology that puts people first.
 
-Along with frontend development expertise, I can use Figma to create most of my designs and assets for my projects.
+As a React Native Engineer, I strive to create "human-centered UI," ensuring technology serves to empower, not overwhelm. My belief in "user-owned data" stems from a deep respect for individual autonomy and the ethical use of information. I believe in a future where technology fosters genuine connections and does not incite prejudice, discrimination, or conflict.
 
-I'm currently seeking new React Native job opportunities in the Nashville Metropolitan Area either hybrid or onsite or opportunities that are remote as well.
+Beyond coding, I'm dedicated to bridging cultural gaps. As a tutor on Preply, I share my love of language, guiding students toward fluency. My JLPT N2 certification and extensive Mandarin coursework reflect my commitment to multilingualism and cross-cultural understanding. Speaking English, Japanese, and Mandarin (at a B1 level) along with some understanding of Spanish allows me to connect with diverse communities and contribute to a more interconnected world.
+Ultimately, I'm driven by a desire to contribute to a world where technology and human connection coexist harmoniously, fostering understanding and unity across borders.
 
-Please send a direct message on [LinkedIn](https://www.linkedin.com/in/pjnalls/) if you're a recruiter and would like to discuss further.
+I'm currently seeking remote job and online academic opportunities. Please send a direct message on [LinkedIn](https://www.linkedin.com/in/pjnalls/) if you're a recruiter and would like to discuss further.
 
 <h2>
 

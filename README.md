@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="assets/rn-banner.avif" alt="Personal Brand">
+<img src="assets/ai-as-an-assistant.avif" alt="Personal Brand">
 
 </div>
 
@@ -14,9 +14,12 @@
 
 My journey is one of connection – connecting people through technology, through language, and a shared vision of a more compassionate world. My passion, encapsulated in the #ONELOVE ethos, drives me to build technology that puts people first.
 
-As a React Native Engineer, I strive to create "human-centered UI," ensuring technology serves to empower, not overwhelm. My belief in "user-owned data" stems from a deep respect for individual autonomy and the ethical use of information. I believe in a future where technology fosters genuine connections and does not incite prejudice, discrimination, or conflict.
+As a senior software engineer, I strive to create "human-centered UI," ensuring technology serves to empower, not overwhelm. My belief in "user-owned data" stems from a deep respect for individual autonomy and the ethical use of information. I believe in a future where technology fosters genuine connections and does not incite prejudice, discrimination, or conflict.
 
-Beyond coding, I'm dedicated to bridging cultural gaps. As a tutor on Preply, I share my love of language, guiding students toward fluency. My JLPT N2 certification and extensive Mandarin coursework reflect my commitment to multilingualism and cross-cultural understanding. Speaking English, Japanese, and Mandarin (at a B1 level) along with some understanding of Spanish allows me to connect with diverse communities and contribute to a more interconnected world.
+Beyond coding, I spend most of my free time in introspection and scientific observation of the internal and external worlds within the human experience, usually striving to reconcile the fragmented collective and individual human psyche with the ever-accelerating integration of technological advancements. I share my discoveries on my blog available at [pjnalls.github.io](https://pjnalls.github.io/blog/).
+
+I'm also dedicated to bridging cultural gaps. As a tutor on Preply, I share my love of language, guiding students toward fluency. My JLPT N2 certification and extensive Mandarin coursework reflect my commitment to multilingualism and cross-cultural understanding. Speaking English, Japanese, and Mandarin (at a B1 level) along with some understanding of Spanish allows me to connect with diverse communities and contribute to a more interconnected world.
+
 Ultimately, I'm driven by a desire to contribute to a world where technology and human connection coexist harmoniously, fostering understanding and unity across borders.
 
 I'm currently seeking remote job and online academic opportunities. Please send a direct message on [LinkedIn](https://www.linkedin.com/in/pjnalls/) if you're a recruiter and would like to discuss further.

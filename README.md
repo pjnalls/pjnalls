@@ -12,10 +12,10 @@
 
 </h2>
 
-I'm an MSIT postgraduate (Master of Science in Information Technology) at UoPeople (the University of the People), deeply curious about the challenges of technological and psychological integration within society. 
+I'm an MSIT postgraduate (Master of Science in Information Technology) at UoPeople (the University of the People), deeply curious about the challenges of technological and psychological integration within society.
 <br/>As a software engineer and tutor, I primarily code in React Native, NativeWind, and TypeScript, building and teaching people and AI how to build cross-platform Expo apps for iOS, Android, and the Web.
 
-Beyond coding, I spend most of my free time on introspection and scientific observation of the internal and external worlds within the human experience. I usually strive to reconcile the fragmented collective and individual human psyche with the ever-accelerating integration of technological advancements. I share my discoveries on my blog, which is available at [pjnalls.github.io](https://pjnalls.github.io/).
+Beyond coding, I spend most of my free time in introspection. I'm striving to contribute to some reconciliation between the fragmented collective and individual human psyche with the ever-accelerating integration of technological advancements. I share my discoveries on my blog, which is available at [pjnalls.github.io](https://pjnalls.github.io/).
 
 Ultimately, I believe in a future where technology fosters genuine connections and does not incite prejudice, discrimination, or conflict, and am driven by a desire to contribute to a world where technology and human connection coexist harmoniously, fostering understanding and unity across borders.
 

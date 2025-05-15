@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="assets/ai-as-an-assistant.avif" alt="Personal Brand">
+<img src="assets/rn-tsx-banner.avif" alt="Personal Brand">
 
 </div>
 
@@ -12,8 +12,8 @@
 
 </h2>
 
-I'm an MSIT postgraduate (Master of Science in Information Technology) at UoPeople (the University of the People), deeply curious about the challenges of technological and psychological integration. 
-<br/>As a software engineer and tutor, I primarily write code in React Native, NativeWind, and TypeScript, building and teaching people and AI how to build cross-platform Expo apps for iOS, Android, and the Web.
+I'm an MSIT postgraduate (Master of Science in Information Technology) at UoPeople (University of the People), deeply curious about the challenges of technological and psychological integration. 
+<br/>I'm also a software engineer and tutor, primarily writing code in React Native, NativeWind, and TypeScript, building and teaching people and AI how to build cross-platform Expo apps for iOS, Android, and the Web.
 
 Beyond coding, I spend most of my free time in introspection. I'm striving to contribute to some reconciliation between the fragmented collective and individual human psyche with the ever-accelerating integration of technology. I blog about it, TypeScript and TypeScript XML technologies at [pjnalls.github.io/blog](https://pjnalls.github.io/blog).
 

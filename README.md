@@ -12,12 +12,15 @@
 
 </h2>
 
-I'm an MSIT postgraduate (Master of Science in Information Technology) at UoPeople (University of the People), deeply curious about the challenges of technological and psychological integration. 
-<br/>I'm also a software engineer and tutor, primarily writing code in React Native, NativeWind, and TypeScript, building and teaching people and AI how to build cross-platform Expo apps for iOS, Android, and the Web.
+I'm a Master of Science in Information Technology postgraduate at the University of the People (MS in IT @ University of the People) 📚.
 
-Beyond coding, I spend most of my free time in introspection. I'm striving to contribute to some reconciliation between the fragmented collective and individual human psyche with the ever-accelerating integration of technology. I blog about it, TypeScript and TypeScript XML technologies at [pjnalls.github.io/blog](https://pjnalls.github.io/blog).
+Once I graduate, I'd like to be a Master of Science in Computer Science postgraduate with a Specialization in Machine Learning at Georgia Institute of Technology (MS in CS, Specialization in ML @ Georgia Tech) ✨.
 
-Ultimately, I believe in a future where people and technology foster genuine connections and do not incite prejudice, discrimination, or conflict, and am driven by a desire to contribute to a world where people and machines coexist harmoniously, fostering empathy, understanding, and interconnectedness.
+I'm also a software engineer with 8+ years of frontend development experience and a tutor by profession. I primarily write code in React Native, NativeWind, and TypeScript, building and teaching people and AI how to build cross-platform Expo apps for iOS, Android, and the Web 📲.
+
+When I'm not studying or coding, I spend most of my free time in introspection 🧘, cooking 🍳, and listening to a ton of video game music 👾.
+
+Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople and Georgia Tech have the most affordable graduate degree programs (as far as I know), and 2️⃣ I believe this is *the* time to upskill for the AI revolution 🤖.
 <h2>
 
 **🧮 My Skills**
@@ -84,7 +87,7 @@ Ultimately, I believe in a future where people and technology foster genuine con
 </h3>
 <div align="center">
 
-[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,1d2a50,091930&text_color=ffffff&hide_border=true&hide=jupyter%20notebook)](https://github.com/pjnalls)
+[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,1d2a50,091930&text_color=ffffff&hide_border=true)](https://github.com/pjnalls)
 
 </div>
 

@@ -32,7 +32,7 @@ Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople a
 </h3>
 <div align="center">
 
-[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,1d2a50,091930&text_color=ffffff&hide_border=true)](https://github.com/pjnalls)
+[![Most Used Programming Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&hide_title=true&card_width=848&bg_color=0,1d2a50,091930&text_color=ffffff&hide_border=true&hide=assembly)](https://github.com/pjnalls)
 
 </div>
 

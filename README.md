@@ -10,9 +10,9 @@
 
 </h2>
 
-I'm a Master of Science in Information Technology postgraduate at the University of the People (MS in IT @ University of the People) 📚.
+I'm a Master of Science in Information Technology postgraduate at the University of the People (MS in IT @ UoPeople) 📚.
  
-Once I graduate, I'd like to be a Master of Science in Computer Science postgraduate with a Specialization in Machine Learning at Georgia Institute of Technology (MS in CS, Specialization in ML @ Georgia Tech) ✨.
+Once I graduate, I'd like to be a Master of Science in Computer Science postgraduate with a Specialization in Machine Learning at Georgia Institute of Technology (MS in CS, ML @ Georgia Tech) ✨.
 
 I'm also a software engineer with 8+ years of frontend development experience and a tutor by profession. I primarily write code in React Native, NativeWind, and TypeScript, building and teaching people and AI how to build cross-platform Expo apps for iOS, Android, and the Web. I also develop machine learning models with PyTorch, TensorFlow, and Python 🧠.
 
@@ -32,7 +32,7 @@ Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople a
 </h3>
 <div align="center">
 
-[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&show_icons=true&hide_title=true&card_width=848&bg_color=0,1d2a50,091930&text_color=ffffff&hide_border=true)](https://github.com/pjnalls)
+[![Most Used Programming Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&hide_title=true&card_width=848&bg_color=0,173458,1B553b&text_color=ffffff&hide_border=true)](https://github.com/pjnalls)
 
 </div>
 

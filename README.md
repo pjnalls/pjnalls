@@ -4,11 +4,7 @@
 
 </div>
 
-<h2>
-
-**🧑‍💻 About me**
-
-</h2>
+# Hey there! 👋
 
 I'm a Master of Science in Information Technology postgraduate at the University of the People (MS in IT @ UoPeople) 📚.
  
@@ -19,41 +15,36 @@ I'm also a software engineer with 8+ years of frontend development experience an
 When I'm not studying or coding, I spend most of my free time in introspection 🧘, cooking 🍳, and listening to a ton of video game music 👾.
 
 Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople and Georgia Tech have the most affordable graduate degree programs (as far as I know), and 2️⃣ I believe this is *the* time to upskill for the AI revolution 🤖.
-<h2>
 
-**🧮 My Skills**
+Check out my [portfolio and blog](https://pjnalls.github.io).
 
 
-<h3 align="center">
-
-⏱️ Most Used Programming Languages
-<br />(on GitHub@pjnalls)
-
-</h3>
 <div align="center">
 
-[![Most Used Programming Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&hide_title=true&card_width=848&bg_color=0,173458,1B553b&text_color=ffffff&hide_border=true)](https://github.com/pjnalls)
+[![SkillIcons: 1st Row](https://skillicons.dev/icons?i=git,html,js,tailwind,react,css,ts,sass,astro,vite,figma,github,markdown)](https://skillicons.dev)
+[![SkillIcons: 2nd Row](https://skillicons.dev/icons?i=pytorch,tensorflow,linux,py,nodejs,django,mongodb,windows,c,apple,bash,express,mysql)](https://skillicons.dev)
 
 </div>
+
+<details>
+    <summary>GitHub Stats ⚡️</summary>
+
+<div align="center">
+
+<img height="174px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pjnalls&theme=tokyonight&title_color=ff87b9&&bg_color=0,173458,194a4b&text_color=fff&hide_border=true&layout=compact,private-repos=true" />
+<img height="174px"src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&title_color=ff87b9&&bg_color=0,194a4b,1B553b&text_color=fff&hide_border=true&layout=compact&count_private=true" />
+</div>
+
+</details>
 
 <div align="center">
 
 <footer>
-
-<span>
-
-<h3>❤️ <a href="/ONELOVE.md">#ONELOVE</a> 🌏🌍🌎</h3>
-
-<i>made with</i>
-
-<h3>
-Markdown + HTML + Hexadecimal Color Codes and ❤️
-</h3>
 
 <br />
 
 Copyright © 2023, 2024, 2025 Preston Nalls
 
 </footer>
-</span>
+
 </div>

@@ -19,6 +19,8 @@ Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople a
 Check out my [portfolio and blog](https://pjnalls.github.io).
 
 
+# Here are my skills and stats 💪
+
 <div align="center">
 
 [![SkillIcons: 1st Row](https://skillicons.dev/icons?i=git,html,js,tailwind,react,css,ts,sass,astro,vite,figma,github,markdown)](https://skillicons.dev)

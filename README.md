@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/expo-and-ml-banner.avif" alt="Personal Brand">
+<img src="banner.avif" alt="Personal Brand">
 
 </div>
 
@@ -16,7 +16,7 @@ When I'm not studying or coding, I spend most of my free time in introspection �
 
 Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople and Georgia Tech have the most affordable graduate degree programs (as far as I know), and 2️⃣ I believe this is *the* time to upskill for the AI revolution 🤖.
 
-Check out my [portfolio and blog](https://pjnalls.github.io).
+Check out my [portfolio and blog](https://pjnalls.dev).
 
 
 # Here are my skills and stats 💪

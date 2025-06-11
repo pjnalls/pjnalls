@@ -16,27 +16,22 @@ When I'm not studying or coding, I spend most of my free time in introspection �
 
 Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople and Georgia Tech have the most affordable graduate degree programs (as far as I know), and 2️⃣ I believe this is *the* time to upskill for the AI revolution 🤖.
 
-Check out my [portfolio and blog](https://pjnalls.dev).
+Check out my portfolio and blog at [pjnalls.dev](https://pjnalls.dev).
 
 
 # Here are my skills and stats 💪
-
 <div align="center">
 
-[![SkillIcons: 1st Row](https://skillicons.dev/icons?i=git,html,js,tailwind,react,css,ts,sass,astro,vite,figma,github,markdown)](https://skillicons.dev)
-[![SkillIcons: 2nd Row](https://skillicons.dev/icons?i=pytorch,tensorflow,linux,py,nodejs,django,mongodb,windows,c,apple,bash,express,mysql)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,dart,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,tensorflow,linux,py,nodejs,django,mongodb,windows,flutter,cpp,apple,bash,express,mysql&perline=14)](https://skillicons.dev)
 
 </div>
 
 <details>
     <summary>GitHub Stats ⚡️</summary>
-
 <div align="center">
-
-<img height="174px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pjnalls&theme=tokyonight&title_color=ff87b9&&bg_color=0,173458,194a4b&text_color=fff&hide_border=true&layout=compact,private-repos=true" />
-<img height="174px"src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&title_color=ff87b9&&bg_color=0,194a4b,1B553b&text_color=fff&hide_border=true&layout=compact&count_private=true" />
+<img height="174px" src="https://github-readme-stats.vercel.app/api?username=pjnalls&theme=tokyonight&title_color=ff87b9&&bg_color=0,173458,194a4b&text_color=fff&hide_border=true&layout=compact,private-repos=true" />
+<img height="174px"src="https://github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&title_color=ff87b9&&bg_color=0,194a4b,1B553b&text_color=fff&hide_border=true&layout=compact&count_private=true" />
 </div>
-
 </details>
 
 <div align="center">

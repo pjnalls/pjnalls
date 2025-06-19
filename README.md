@@ -23,7 +23,7 @@ Check out my portfolio and blog at [pjnalls.dev](https://pjnalls.dev).
 # Here are my skills and stats 💪
 <div align="center">
 
-[![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,dart,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,tensorflow,linux,py,nodejs,django,mongodb,windows,flutter,cpp,apple,bash,express,mysql&perline=14)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,go,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,tensorflow,java,linux,py,nodejs,django,mongodb,windows,cpp,apple,bash,express,mysql&perline=14)](https://skillicons.dev)
 
 </div>
 

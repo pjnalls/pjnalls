@@ -6,16 +6,15 @@
 
 # Hey there! 👋
 
+I'm a software engineer and tutor with 8+ years of web and mobile development experience. I primarily write code in Python, TypeScript, and Go, and recently started learning Java, developing full-stack apps and data science pipelines. I also train people and provide AI annotated data to train it how to code in Python, Typescript, and Go 🧠.
 
-I'm a software engineer with 8+ years of frontend development experience and a tutor by profession. I primarily write code in React Native, NativeWind, and TypeScript, building and teaching people and AI how to build cross-platform Expo apps for iOS, Android, and the Web. I also develop machine learning models with PyTorch, TensorFlow, and Python 🧠.
+I'm a Master of Science in Information Technology postgraduate at the University of the People (MS IT @ UoPeople) 📚.
 
-I'm also a Master of Science in Information Technology postgraduate at the University of the People (MS in IT @ UoPeople) 📚.
- 
-Once I graduate, I'd like to be a Master of Science in Computer Science postgraduate with a Specialization in Machine Learning at Georgia Institute of Technology (MS in CS, ML @ Georgia Tech) ✨.
+Once I graduate, I'd like to be a Master of Science in Computer Science postgraduate with a Specialization in Machine Learning at Georgia Institute of Technology (MS CS, ML @ Georgia Tech) ✨.
 
-When I'm not coding or studying, I spend most of my free time in introspection 🧘, cooking 🍳, and listening to a ton of video game music 👾.
+When I'm not coding or studying, I spend most of my free time in introspection 🧘, cooking 🍳, and listening to a ton of music 🎧.
 
-Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople and Georgia Tech have the most affordable graduate degree programs (as far as I know), and 2️⃣ I believe this is *the* time to upskill for the AI revolution 🤖.
+Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople and Georgia Tech have the most affordable and highly accredited graduate degree programs (as far as I know), and 2️⃣ I believe this is *the* time to upskill for the AI revolution 🤖.
 
 Check out my portfolio and blog at [pjnalls.dev](https://pjnalls.dev).
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Personal Brand">
+<img src="profile-banner.png" alt="A peaceful sunny, shadowy, navy-blue day in a forest.">
 
 </div>
 

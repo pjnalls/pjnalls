@@ -6,7 +6,8 @@
 
 # Hey there! 👋
 
-I'm a software engineer and tutor with 8+ years of web and mobile development experience. I primarily write code in Python, TypeScript, and Go, and recently started learning Java, developing full-stack apps and data science pipelines. I also train people and provide AI annotated data to train it how to code in Python, Typescript, and Go 🧠.
+I’m a software engineer and tutor with 8+ years of web and mobile development experience who speaks four languages. I primarily write code in Python, TypeScript, and Go, and recently started learning Java. I can speak fluent English, Japanese, Spanish, and Mandarin Chinese, and I study Korean.<br/>
+I develop full-stack apps and data science pipelines. I also train people and provide AI annotated data to train it how to code in Python, Typescript, and Go 🧠.
 
 I'm a Master of Science in Information Technology postgraduate at the University of the People (MS IT @ UoPeople) 📚.
 

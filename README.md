@@ -6,19 +6,11 @@
 
 # Hey there! 👋
 
-I’m a software engineer and tutor with 8+ years of web and mobile development experience who speaks four languages. I primarily write code in Python, TypeScript, and Go, and recently started learning Java. I can speak fluent English, Japanese, Spanish, and Mandarin Chinese, and I study Korean.<br/>
-I develop full-stack apps and data science pipelines. I also train people and provide AI annotated data to train it how to code in Python, Typescript, and Go 🧠.
+I'm a polyglot and software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
 
-I'm a Master of Science in Information Technology postgraduate at the University of the People (MS IT @ UoPeople) 📚.
+I speak four languages to varying degrees of fluency — (where ">" is for "greater than": ) English > Japanese > Mandarin Chinese > Spanish — and currently study one — Korean. 🌐
 
-Once I graduate, I'd like to be a Master of Science in Computer Science postgraduate with a Specialization in Machine Learning at Georgia Institute of Technology (MS CS, ML @ Georgia Tech) ✨.
-
-When I'm not coding or studying, I spend most of my free time in introspection 🧘, cooking 🍳, and listening to a ton of music 🎧.
-
-Ultimately, I'm pursuing MS degrees in both IT and CS because 1️⃣ UoPeople and Georgia Tech have the most affordable and highly accredited graduate degree programs (as far as I know), and 2️⃣ I believe this is *the* time to upskill for the AI revolution 🤖.
-
-Check out my portfolio and blog at [pjnalls.dev](https://pjnalls.dev).
-
+I also build cross-platform and web-only, full-stack Expo apps using React, React Native, TypeScript, CSS, Express, Drizzle ORM, PostgreSQL, Vite, Nx, Node.js, Python, PyTorch, and many other technologies. 🧑‍💻
 
 # Here are my skills and stats 💪
 <div align="center">

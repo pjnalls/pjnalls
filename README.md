@@ -1,10 +1,16 @@
+# Hey there! 👋
+
+## Here is what I'm currently working on
+
 <div align="center">
 
-<img src="profile-banner.png" alt="A peaceful sunny, shadowy, navy-blue day in a forest.">
+<img 
+    src="current-project.png" 
+    alt="What I'm currently working on"
+    width="384"
+>
 
 </div>
-
-# Hey there! 👋
 
 I'm a polyglot and software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
 
@@ -12,7 +18,7 @@ I speak four languages to varying degrees of fluency — (where ">" is for "grea
 
 I also build cross-platform and web-only, full-stack Expo apps using React, React Native, TypeScript, CSS, Express, Drizzle ORM, PostgreSQL, Vite, Nx, Node.js, Python, PyTorch, and many other technologies. 🧑‍💻
 
-# Here are my skills and stats 💪
+## Here are my skills and stats 💪
 <div align="center">
 
 [![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,go,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,tensorflow,java,linux,py,nodejs,django,mongodb,windows,cpp,apple,bash,express,mysql&perline=14)](https://skillicons.dev)

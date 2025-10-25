@@ -1,16 +1,28 @@
+<div align="center">
+
+<img 
+    src="profile-banner.avif" 
+    alt="Profile header branding"
+/>
+
+</div>
+
 # Hey there! 👋
 
-## Here is what I'm currently working on
+## Here's what I'm currently working on
+
+[Graphluency](https://github.com/pjnalls/graphluency): Connecting the world of languages and people via multilingual fluency graphs on the Web, iOS, and Android.
 
 <div align="center">
 
 <img 
-    src="current-project.png" 
+    src="current-project.gif" 
     alt="What I'm currently working on"
-    width="384"
->
+/>
 
 </div>
+
+## Here's a little about me
 
 I'm a polyglot and software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
 
@@ -21,7 +33,7 @@ I also build cross-platform and web-only, full-stack Expo apps using React, Reac
 ## Here are my skills and stats 💪
 <div align="center">
 
-[![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,go,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,tensorflow,java,linux,py,nodejs,django,mongodb,windows,cpp,apple,bash,express,mysql&perline=14)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,linux,py,nodejs,mongodb,windows,postgres,redux,apple,bash,express&perline=12)](https://skillicons.dev)
 
 </div>
 

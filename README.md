@@ -40,8 +40,8 @@ I also build cross-platform and web-only, full-stack Expo apps using React, Reac
 <details>
     <summary>GitHub Stats ⚡️</summary>
 <div align="center">
-<img height="174px" src="https://github-readme-stats.vercel.app/api?username=pjnalls&theme=tokyonight&title_color=cc3779&&bg_color=0,61dbfb,65e5de&text_color=123a5b&hide_border=true&layout=compact,private-repos=true" />
-<img height="174px"src="https://github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&title_color=cc3779&&bg_color=0,61dbfb,65e5de&text_color=123a5b&hide_border=true&layout=compact&count_private=true" />
+<img height="164px" src="https://github-readme-stats.vercel.app/api?username=pjnalls&theme=tokyonight&title_color=926&&bg_color=0,f9f9ff,ffd7f9&text_color=123a5b&hide_border=true&layout=compact,private-repos=true" />
+<img height="174px"src="https://github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&title_color=926&&bg_color=color=0,f9f9ff,ffd7f9&text_color=123a5b&hide_border=true&layout=compact&count_private=true" />
 </div>
 </details>
 

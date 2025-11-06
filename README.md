@@ -17,7 +17,18 @@
 
 <img 
     src="current-project.gif" 
-    alt="What I'm currently working on"
+    alt="What I'm currently working on: Graphluency"
+/>
+
+</div>
+
+[Gitkundo](https://github.com/pjnalls/gitkundo): An all-in-one, full-stack TypeScript development environment: One language. One integrated terminal. One integrated browser. One repo... All in one window! ✨
+
+<div align="center">
+
+<img 
+    src="current-project.avif" 
+    alt="What I'm currently working on: Gitkundo"
 />
 
 </div>

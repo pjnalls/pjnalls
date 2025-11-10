@@ -7,7 +7,15 @@
 
 </div>
 
-# Hey there! 👋
+# Hey there! 👋 I'm Preston.
+
+## Here's a little about me
+
+I'm a polyglot and software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
+
+I speak four languages to varying degrees of fluency — (where ">" is for "greater than": ) English > Japanese > Mandarin Chinese > Spanish — and currently study one — Korean. 🌐
+
+I also build cross-platform and web-only, full-stack Expo apps using React, React Native, TypeScript, CSS, Express, Drizzle ORM, PostgreSQL, Vite, Nx, Node.js, Python, PyTorch, and many other technologies. 🧑‍💻
 
 ## Here's what I'm currently working on
 
@@ -33,15 +41,8 @@
 
 </div>
 
-## Here's a little about me
-
-I'm a polyglot and software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
-
-I speak four languages to varying degrees of fluency — (where ">" is for "greater than": ) English > Japanese > Mandarin Chinese > Spanish — and currently study one — Korean. 🌐
-
-I also build cross-platform and web-only, full-stack Expo apps using React, React Native, TypeScript, CSS, Express, Drizzle ORM, PostgreSQL, Vite, Nx, Node.js, Python, PyTorch, and many other technologies. 🧑‍💻
-
 ## Here are my skills and stats 💪
+
 <div align="center">
 
 [![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,linux,py,nodejs,mongodb,windows,postgres,redux,apple,bash,express&perline=12)](https://skillicons.dev)

@@ -19,7 +19,9 @@ I also build cross-platform and web-only, full-stack Expo apps using React, Reac
 
 ## Here's what I'm currently working on 🏗️
 
-[Graphluency](https://github.com/pjnalls/graphluency): Connecting the world of languages and people via multilingual fluency graphs on the Web, iOS, and Android.
+### [Graphluency](https://github.com/pjnalls/graphluency)
+
+Connecting the world of languages and people via multilingual fluency graphs on the Web, iOS, and Android.
 
 <div align="center">
 
@@ -30,7 +32,9 @@ I also build cross-platform and web-only, full-stack Expo apps using React, Reac
 
 </div>
 
-[Gitkundo](https://github.com/pjnalls/gitkundo): An all-in-one, full-stack TypeScript development environment: One language. One integrated terminal. One integrated browser. One repo... All in one window! ✨
+### [Gitkundo](https://github.com/pjnalls/gitkundo)
+
+An all-in-one, full-stack TypeScript development environment: One language. One integrated terminal. One integrated browser. One repo... All in one window! ✨
 
 <div align="center">
 

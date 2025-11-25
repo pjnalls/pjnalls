@@ -13,9 +13,9 @@
 
 I'm a frontend developer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
 
-I build cross-platform and web-only, full-stack Expo apps using React, React Native, TypeScript, CSS, Express, Drizzle ORM, PostgreSQL, Vite, Nx, Node.js, Python, PyTorch, and many other technologies. 🧑‍💻
+I build cross-platform, full-stack Expo apps using React, React Native, TypeScript, CSS, Express, Drizzle ORM, PostgreSQL, Vite, Nx, Node.js, Python, PyTorch, and many other technologies. 🧑‍💻
 
-I also speak four languages to varying degrees of fluency — (where ">" is for "greater than": ) English > Japanese > Mandarin Chinese > Spanish — and currently study one — Korean. 🌐
+I also speak four languages to varying degrees of fluency — (where ">" is for "greater than": ) English > Japanese > Mandarin Chinese > Spanish — and am currently studying Korean, French, and Italian. 🌐
 
 ## Here's what I'm currently working on 🏗️
 

@@ -57,7 +57,7 @@ An all-in-one, full-stack TypeScript development environment: One language. One 
 ### GitHub Stats ⚡️
 <div align="center">
 <!-- Leave height for 1st and 2nd images at 164 and 174 px. -->
-<img height="164px" src="https://github-readme-stats.vercel.app/api?username=pjnalls&theme=tokyonight&title_color=fff&&bg_color=0,e6aa5c,0065ff,00a4ff&text_color=8ff&hide_border=true&layout=compact,private-repos=true" />
+<img height="164px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pjnalls&theme=tokyonight&title_color=fff&&bg_color=0,e6aa5c,0065ff,00a4ff&text_color=8ff&hide_border=true&layout=compact,private-repos=true" />
 <img height="174px"src="https://github-readme-stats.vercel.app/api/top-langs?username=pjnalls&theme=tokyonight&title_color=fff&&bg_color=0,e6aa5c,0065ff,00a4ff&text_color=8ff&hide_border=true&layout=compact&count_private=true" />
 </div>
 

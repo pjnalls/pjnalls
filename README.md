@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-    src="banner.png" 
+    src="profile-banner.avif" 
     alt="Profile header branding"
 />
 
@@ -9,7 +9,7 @@
 
 # Hey there! 👋 I'm Preston.
 
-## Here's a little about me 💁
+## Here's a bit about me 💁
 
 I'm a software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
 

@@ -11,11 +11,13 @@
 
 ## Here's a bit about me 💁
 
-I'm a software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
+**💡 Senior Software Engineer (8+ years) teaching full-stack mastery.**
 
-I build cross-platform, full-stack Expo apps using React, React Native, TypeScript, CSS, Express, Drizzle ORM, Prism, PostgreSQL, Vite, Turborepo, Nx, Node.js, Python, PyTorch, and many other technologies. 🧑‍💻
+I build and create tutorials for modern, cross-platform apps using the ultimate stack: **TypeScript, React, React Native (Expo), Node.js, Express, and modern ORMs/databases.**
 
-I also speak four languages to varying degrees of fluency — (where ">" is for "greater than": ) English > Japanese > Mandarin Chinese > Spanish — and am currently studying Korean, French, and Italian. 🌐
+Subscribe [here](https://www.youtube.com/@pjnalls) for weekly deep dives, architecture breakdowns, and complete app builds—from pixel-perfect frontend to scalable backend.
+
+*PS: Open to exciting new Frontend & Full-Stack roles! 🚀*
 
 ## Here's what I'm currently working on 🏗️
 

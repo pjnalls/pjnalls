@@ -11,7 +11,7 @@
 
 ## Here's a bit about me 💁
 
-**💡 Senior Software Engineer (8+ years) teaching full-stack mastery.**
+**💡 Senior Software Engineer (8+ years) teaching full-stack TypeScript mastery.**
 
 I build and create tutorials for modern, cross-platform apps using the ultimate stack: **TypeScript, React, React Native (Expo), Node.js, Express, and modern ORMs/databases.**
 
@@ -21,6 +21,25 @@ Subscribe [here](https://www.youtube.com/@pjnalls) for weekly deep dives, archit
 
 ## Here's what I'm currently working on 🏗️
 
+### Nebula AI
+
+Expo & Nativewind, AI-chatbot app written in React Native that I'm building in public on YouTube.
+
+🎥 YouTube playlist of me building the app from start to finish available [here](https://youtube.com/playlist?list=PL9LMfcQwJu49dfQjGwatQv_X_sY2fiWPd&si=k9Fvj5QOjWqAfnMP).
+
+Code available [here](https://github.com/pjnalls/nebula-ai):
+
+[![Skill Icons](https://skillicons.dev/icons?i=github&perline=1)](https://github.com/pjnalls/nebula-ai)
+
+<div align="center">
+
+<img 
+    src="nebula-ai.gif" 
+    alt="What I'm currently working on: Nebula AI"
+/>
+
+</div>
+
 ### [Graphluency](https://github.com/pjnalls/graphluency)
 
 Connecting the world of languages and people via multilingual fluency graphs on the Web, iOS, and Android.
@@ -28,7 +47,7 @@ Connecting the world of languages and people via multilingual fluency graphs on 
 <div align="center">
 
 <img 
-    src="current-project.gif" 
+    src="graphluency.gif" 
     alt="What I'm currently working on: Graphluency"
 />
 
@@ -41,7 +60,7 @@ An all-in-one, full-stack TypeScript development environment: One language. One 
 <div align="center">
 
 <img 
-    src="current-project.avif" 
+    src="gitkundo.avif" 
     alt="What I'm currently working on: Gitkundo"
 />
 

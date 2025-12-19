@@ -23,7 +23,7 @@ Subscribe [here](https://www.youtube.com/@pjnalls) for weekly deep dives, archit
 
 ### Nebula AI
 
-Expo & Nativewind, AI-chatbot app written in React Native that I'm building in public on YouTube.
+An AI-chatbot app written in React Native (Expo), Nativewind (native Tailwind CSS), and React Native Reanimated that I'm building in public on YouTube.
 
 🎥 YouTube playlist of me building the app from start to finish available [here](https://youtube.com/playlist?list=PL9LMfcQwJu49dfQjGwatQv_X_sY2fiWPd&si=k9Fvj5QOjWqAfnMP).
 

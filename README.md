@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-    src="profile-banner.avif" 
+    src="banner.png" 
     alt="Profile header branding"
 />
 
